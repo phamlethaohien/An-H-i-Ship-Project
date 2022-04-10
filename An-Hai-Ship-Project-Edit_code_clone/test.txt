@@ -1,0 +1,212 @@
+ <div id="fb-root"></div>
+    <div class="header_m d-md-none">
+        <div class="row no-gutters">
+            <div class="col-6 logo">
+                <a href="./images/logoAn-Hai.png"><img src="./images/logoAn-Hai.png" alt="Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải" /></a>
+            </div>
+            <div class="col-6">
+                <div class="language d-lg-none text-right">
+                    <a href="/site/setLang/1"><img height="20" src="images/languages/5974vietnam.png"
+                            alt="Tiếng Việt" /></a><a href="/site/setLang/2"><img height="20"
+                            src="images/languages/71unit-kingdom.png" alt="Tiếng Anh" /></a> </div>
+
+                <div class="nav_mobile">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="menu_mobile d-lg-none">
+        <ul>
+            <li>
+                <a href="/index.php">Trang chủ</a>
+            </li>
+            <li>
+                <a href="/index.php/doi-net-ve-cong-ty-a46.html">Giới thiệu <i class="fa fa-caret-down"></i></a>
+                <ul>
+                    <li><a href="/index.php/doi-net-ve-cong-ty-a46.html">+&nbsp;&nbsp;&nbsp; Đôi nét về công ty</a></li>
+                    <li><a href="/index.php/su-hinh-thanh-va-phat-trien-a47.html">+&nbsp;&nbsp;&nbsp; Sự hình thành và
+                            phát triển</a></li>
+                    <li><a href="/index.php/so-do-to-chuc-a48.html">+&nbsp;&nbsp;&nbsp; Tổ chức</a></li>
+                    <li><a href="/index.php/van-phong-cong-ty-a49.html">+&nbsp;&nbsp;&nbsp; Văn phòng công ty</a></li>
+                    <li><a href="/index.php/doi-tau-bmc-a50.html">+&nbsp;&nbsp;&nbsp; Đội tàu BMC</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Dịch vụ <i class="fa fa-caret-down"></i></a>
+                <ul>
+                    <li><a href="/index.php/van-chuyen-hang-hoa%2C-quan-ly-va-khai-thac-tau-a40.html">+&nbsp;&nbsp;&nbsp;
+                            Vận chuyển hàng hóa, quản lý và khai thác tàu</a></li>
+                    <li><a href="/index.php/cho-thue-tau-a41.html">+&nbsp;&nbsp;&nbsp; Cho thuê tàu</a></li>
+                    <li><a href="/index.php/mua-ban-tau-a42.html">+&nbsp;&nbsp;&nbsp; Mua bán tàu </a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="/index.php/tin-tuc-l20.html">Tin tức <i class="fa fa-caret-down"></i></a>
+                <ul>
+                    <li><a href="/index.php/tin-tuc-cong-ty-l24.html">+&nbsp;&nbsp;&nbsp; Tin công ty</a></li>
+                    <li><a href="/index.php/tin-chuyen-nganh-l23.html">+&nbsp;&nbsp;&nbsp; Tin chuyên ngành</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="/index.php/tuyen-dung-l22.html">Tuyển dụng</a>
+            </li>
+            <li>
+                <a href="/index.php/lien-he.html">Liên hệ</a>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Begin top_page -->
+    <div class="top_page d-none d-md-block">
+        <div class="container">
+            <div class="row no-gutters">
+
+                <div class="col-6 wow bounceInLeft">
+                    <p class="welcome" style="font-weight: bold;">
+                        <strong>Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải</strong></p>
+                </div>
+
+                <div class="col-6 right">
+                    <div class="row no-gutters">
+                        <div class="col-5 search">
+                            <form action="/tim-kiem.html" method="GET"> <input type="text" name="txtkeyword"
+                                    placeholder="Từ khóa tìm kiếm..." autocomplete="off">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                        </div>
+
+                        <div class="col-7">
+                            <div class="social">
+                                <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/Binhminh-International-Sunrise-Shipping-Company-Bmc-772242163139986/"
+                                    target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="" target="_blank"><i class="fa fa-google-plus"></i></a>
+                            </div>
+                            <div class="lang">
+                                <a>Ngôn ngữ: </a>
+                                <a href="/site/setLangAdmin/1"><img width="26" height="20"
+                                        src="images/languages/5974vietnam.png" alt="Tiếng Việt" /></a><a
+                                    href="/site/setLangAdmin/2"><img width="26" height="20"
+                                        src="images/languages/71unit-kingdom.png" alt="Tiếng Anh" /></a> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End top_page -->
+
+
+
+    <!-- Begin header -->
+    <div class="header d-none d-md-block">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-2 logo wow fadeInLeft">
+                <a href="/"> <img src="./images/logoAn-Hai.png" alt="Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải" />
+                </a>
+            </div>
+
+            <div class="col-10 wow bounceInDown">
+                <div class="tag_header text-right">
+                    <span class="address">Số 9/9 Hoàng Diệu, Hồng Bàng, Hải Phòng</span>
+                    <span class="email">bmc@hples.com.vn</span>
+                    <span class="hotline">0225 8830218 | 0976 087 584</span>
+                </div>
+                <div class="menu text-right">
+                    <ul>
+                        <li><a href="/index.php">Trang chủ</a>
+                        </li>
+                        <li><a href="/index.php/doi-net-ve-cong-ty-a46.html">Giới thiệu <i
+                                    class="fa fa-angle-down"></i></a>
+                            <ul>
+                                <li><a href="/index.php/doi-net-ve-cong-ty-a46.html">Đôi nét về công ty</a></li>
+                                <li><a href="/index.php/su-hinh-thanh-va-phat-trien-a47.html">Sự hình thành và phát
+                                        triển</a></li>
+                                <li><a href="/index.php/so-do-to-chuc-a48.html">Tổ chức</a></li>
+                                <li><a href="/index.php/van-phong-cong-ty-a49.html">Văn phòng công ty</a></li>
+                                <li><a href="/index.php/doi-tau-bmc-a50.html">Đội tàu BMC</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Dịch vụ <i class="fa fa-angle-down"></i></a>
+                            <ul>
+                                <li><a href="/index.php/van-chuyen-hang-hoa%2C-quan-ly-va-khai-thac-tau-a40.html">Vận
+                                        chuyển hàng hóa, quản lý và khai thác tàu</a></li>
+                                <li><a href="/index.php/cho-thue-tau-a41.html">Cho thuê tàu</a></li>
+                                <li><a href="/index.php/mua-ban-tau-a42.html">Mua bán tàu </a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/index.php/tin-tuc-l20.html">Tin tức <i class="fa fa-angle-down"></i></a>
+                            <ul>
+                                <li><a href="/index.php/tin-tuc-cong-ty-l24.html">Tin công ty</a></li>
+                                <li><a href="/index.php/tin-chuyen-nganh-l23.html">Tin chuyên ngành</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/index.php/tuyen-dung-l22.html">Tuyển dụng</a>
+                        </li>
+                        <li><a href="/index.php/lien-he.html">Liên hệ</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    </div>
+    <!-- End header -->
+
+    <!--begin slider-->
+    <!-- <div class="slider_box">
+        <div class="owl-carousel owl-theme slide-carousel">
+            <div class="item">
+                <a href=""><img src="./images/slide/slide1.jpg" alt="Cho thuê, mua bán Tàu" /></a>
+                <div class="d-none d-md-block">
+                    <h3>Cho thuê, mua bán Tàu</h3>
+                    <p>
+                        <p style="text-align:justify">Chúng tôi mua và bán các loại tàu đã qua sử dụng, tàu phá dỡ và
+                            tàu đóng mới theo nhu cầu cụ thể của khách hàng.</p>
+
+                        <div>
+                            <div>
+                                <div>
+                                    <div>
+                                        <div>
+                                            <div>
+                                                <div>
+                                                    <p> </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <a href=""><img src="./images/slide/slide2.jpg" alt="Hệ Thống Tàu Biển Chất Lượng Cao" /></a>
+                <div class="d-none d-md-block">
+                    <h3>Hệ Thống Tàu Biển Chất Lượng Cao</h3>
+                    <p>
+                        <p style="text-align:justify">Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
+                            nhu cầu của khách hàng trong suốt thời gian dài. </p>
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <a href=""><img src="./images/slide/slide3.jpg"
+                        alt="Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu" /></a>
+                <div class="d-none d-md-block">
+                    <h3>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h3>
+                    <p>
+                        <p style="text-align:justify">Công ty đang tiếp tục mở rộng phạm vi vận tải ra các khu vực khác
+                            trên thế giới để đáp ứng mọi nhu cầu vận chuyển của khách hàng</p>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div> -->
