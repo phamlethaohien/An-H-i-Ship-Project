@@ -1,104 +1,114 @@
 </div><!--End Sticky Footer-->
 
-<footer class="site-footer">
+<!-- Footer -->
+<footer>
    <div class="container">
       <div class="row">
-         <div class="col-md-5">
-            <div class="logo">
-               <a href="<?php echo esc_url( get_home_url( '/' ) ); ?>" title="<?php bloginfo( 'name' ); ?>">
-                  <?php
-                        if ( !empty( $AnHaiShipWebsite_opt_logo_image_id ) ) :
-                           echo wp_get_attachment_image( $AnHaiShipWebsite_opt_logo_image_id, 'full' );
-                        else :
-                           echo'<img class="logo-default" src="'.esc_url( get_theme_file_uri( '/assets/images/logo.png' ) ).'" alt="'.get_bloginfo('title').'" />';
-                        endif;
-                  ?>
-               </a>
-            </div>
-            <div class="description">
-               <p>Our mission is to help</p>
-               <p>unleash the full potential.</p>
-            </div>
-            <div class="link-icons">
-               <a class="light-text" href="#" target="_blank">
-                  <i class="fab fa-facebook-f"></i></i>
-               </a>
-               <a class="light-text" href="#" target="_blank">
-                  <i class="fab fa-linkedin-in"></i></i>
-               </a>
-               <a class="light-text" href="#" target="_blank">
-                  <i class="fab fa-twitter"></i></i>
-               </a>
-
-               <!-- <?php if ( is_active_sidebar( 'sidebar-footer' ) ) : ?>
-
-               <div class="site-footer__sidebar">
-                  <?php dynamic_sidebar( 'sidebar-footer' ); ?>
-               </div>
-
-               <?php endif; ?>
-
-               <?php if ( get_theme_mod( 'facebook' ) ): ?>
-                  <a class="light-text" href="<?php echo get_theme_mod( 'facebook' ); ?>" target="_blank">
-                     <i class="fab fa-facebook-f"></i></i>
-                  </a>
-               <?php endif; ?>
-               <?php if ( get_theme_mod( 'linkedin' ) ): ?>
-                  <a class="light-text" href="<?php echo get_theme_mod( 'linkedin' ); ?>" target="_blank">
-                     <i class="fab fa-linkedin"></i></i>
-                  </a>
-               <?php endif; ?>
-               <?php if ( get_theme_mod( 'twitter' ) ): ?>
-                  <a class="light-text" href="<?php echo get_theme_mod( 'twitter' ); ?>" target="_blank">
-                     <i class="fab fa-twitter"></i></i>
-                  </a>
-               <?php endif; ?> -->
-            </div>
-         </div>
-         <div class="col-md-7 site-footer__col-right">
-            <div class="site-footer__right">
-                  <div class="copyright">
-                     <?php esc_html_e('Copyright 2021 AnHaiShip VC', 'AnHaiShip_website'); ?>
+         <div class="col-12 col-md-5 footer_item contact_footer">
+               <p>Công ty TNHH Dịch vụ và Thương mại vận tải An Hải</p>
+               <div>
+                  <p>
+                      <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-16.png" alt="">
+                      Địa chỉ cs1: Số 110, Lô 17 Mở Rộng, Đường Trung Hành 5, Phường Đằng Lâm, Quận Hải An, Thành phố Hải Phòng</p>
+                  <p>
+                      <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-17.png" alt="">
+                      Điện thoại: 02258830218 | 0976087584</p>
+                  <p>
+                      <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-18.png" alt="">
+                      Email: chartering@anhaishipping.com.vn</p>
+                  <p>
+                      <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-19.png" alt="">
+                      Admin: admin@anhaishipping.com.vn</p>
+                  <div class="socials">
+                      Mạng xã hội:
+                      <ul class="socials-box">
+                          <li>
+                              <a href="#">
+                                  <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-07.png" alt="">
+                              </a>
+                          </li>
+                          <li>
+                              <a href="#">
+                                  <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-08.png" alt="">
+                              </a>
+                          </li>
+                          <li>
+                              <a href="#">
+                                  <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-09.png" alt="">
+                              </a>
+                          </li>
+                          <li>
+                              <a href="#">
+                                  <img src="https://anhaishipping.com.vn/wp-content/uploads/2021/07/icon-10.png" alt="">
+                              </a>
+                          </li>
+                      </ul>
                   </div>
-
-                  <nav class="menu-footer">
-                     <?php
-
-                     if ( has_nav_menu( 'footer-menu' ) ) :
-
-                        wp_nav_menu( array(
-                              'theme_location'    => 'footer-menu',
-                              'menu_class'        => 'menu-footer',
-                              'container'         =>  false,
-                        ));
-
-                     else:
-
-                        ?>
-
-                        <ul class="main-menu">
-                           <li><a href="#">Contact Us</a></li>
-                           <li><a href="#">Privacy policy</a></li>
-                           <?php
-                           // TODO: If admin
-                           if ( has_nav_menu('footer-menu') ) :
-
-                           ?>
-                              <li>
-                                 <a href="<?php echo get_admin_url().'/nav-menus.php'; ?>">
-                                    <?php esc_html_e( 'ADD TO MENU','AnHaiShipWebsite' ); ?>
-                                 </a>
-                              </li>
-                           <?php endif;?>
-                        </ul>
-
-                     <?php endif;?>
-                  </nav>
-            </div>
+               </div>
          </div>
-      </div>      
+         <div class="col-12 col-md-2 footer_item menu_footer">
+              <br class="d-md-none">
+              <p>Danh mục</p>
+              <div>
+                  <ul>
+                      <li>
+                          <a href="#">Trang chủ</a>
+                      </li>
+                      <li>
+                          <a href="#">Về chúng tôi</a>
+                      </li>
+                      <li>
+                          <a href="#">Tin tức</a>
+                      </li>
+                      <li>
+                         <a href="#">Bảng giá</a>
+                      </li>
+                      <li>
+                          <a href="#">Liên hệ</a>
+                      </li>
+                  </ul>
+              </div>
+         </div>
+         <div class="col-12 col-md-2 footer_item menu_footer">
+              <br class="d-md-none">
+              <p>Dịch vụ</p>
+              <div>
+                  <ul>
+                      <li>
+                          <a href="#">Dịch vụ test</a>
+                      </li>
+                      <li>
+                          <a href="#">Vận tải quốc tế & nội địa</a>
+                      </li>
+                      <li>
+                          <a href="#">Logistic</a>
+                      </li>
+                      <li>
+                         <a href="#">Cho thuê tàu</a>
+                      </li>
+                      <li>
+                         <a href="#">Mua bán tàu</a>
+                      </li>
+                      <li>
+                         <a href="#">Quản lý & cung ứng thuyền viên</a>
+                      </li>
+                  </ul>
+              </div>
+         </div>
+         <div class="col-12 col-md-3 footer_item fanpage_footer">
+            <br class="d-md-none">
+            <p>Bản đồ</p>
+         </div>
+      </div>
    </div>
 </footer>
+
+<!-- End Footer -->
+<div class="bottom_page">
+   <div class="container">
+       <p>© GCO Group 2021. All rights reserved</p>
+   </div>
+</div>
 
 <?php wp_footer(); ?>
 
