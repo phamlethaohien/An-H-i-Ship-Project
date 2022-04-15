@@ -16,124 +16,97 @@
 
 <body>
     <!--begin slider-->
-    <div class="slider_box">
-        <div class="owl-carousel owl-theme slide-carousel">
-            <div class="item">
-                <a href=""><img src="./images/slide_1.jpg" alt="Cho thuê, mua bán Tàu" /></a>
-                <div class="d-none d-md-block">
-                    <h3>Cho thuê, mua bán Tàu</h3>
-                    <p>
-                        <p style="text-align:justify">Chúng tôi mua và bán các loại tàu đã qua sử dụng, tàu phá dỡ và
-                            tàu đóng mới theo nhu cầu cụ thể của khách hàng.</p>
 
-                        <div>
-                            <div>
-                                <div>
-                                    <div>
-                                        <div>
-                                            <div>
-                                                <div>
-                                                    <p> </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </p>
-                </div>
-            </div>
-            <div class="item">
-                <a href=""><img src="./images/slide_2.jpg" alt="Hệ Thống Tàu Biển Chất Lượng Cao" /></a>
-                <div class="d-none d-md-block">
-                    <h3>Hệ Thống Tàu Biển Chất Lượng Cao</h3>
-                    <p>
-                        <p style="text-align:justify">Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
-                            nhu cầu của khách hàng trong suốt thời gian dài. </p>
-                    </p>
-                </div>
-            </div>
-            <div class="item">
-                <a href=""><img src="./images/slide_3.jpg"
-                        alt="Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu" /></a>
-                <div class="d-none d-md-block">
-                    <h3>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h3>
-                    <p>
-                        <p style="text-align:justify">Công ty đang tiếp tục mở rộng phạm vi vận tải ra các khu vực khác
-                            trên thế giới để đáp ứng mọi nhu cầu vận chuyển của khách hàng</p>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+   <div class="slides">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="./images/slide_1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="./images/slide_2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="./images/slide_3.jpg" alt="Third slide">
-            </div>
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="./images/slide_1.jpg" alt="Cho thuê, mua bán Tàu">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>Cho thuê, mua bán Tàu</h2>
+                <p style="text-align:justify">Chúng tôi mua và bán các loại tàu đã qua sử dụng, tàu phá dỡ và
+                    tàu đóng mới theo nhu cầu cụ thể của khách hàng.</p>
+              </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="./images/slide_2.jpg" alt="Hệ Thống Tàu Biển Chất Lượng Cao">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
+                <p style="text-align:justify">Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
+                    nhu cầu của khách hàng trong suốt thời gian dài. </p>
+              </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="./images/slide_3.jpg" alt="Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu">
+            <div class="carousel-caption d-none d-md-block">
+                <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
+                <p style="text-align:justify">Công ty đang tiếp tục mở rộng phạm vi vận tải ra các khu vực khác
+                    trên thế giới để đáp ứng mọi nhu cầu vận chuyển của khách hàng</p>
+              </div>
+          </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
         </a>
         <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
         </a>
+      </div>
+</div>
+
+<div class="carousel-item">
+    <img src="..." alt="...">
+    <div class="carousel-caption d-none d-md-block">
+      <h5>...</h5>
+      <p>...</p>
     </div>
-    <!--end slider-->
+  </div>
 
 
-    <!-- About home -->
-    <div class="about_home">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 brief_ah">
-                    <div>
-                        <a href="#">Giới thiệu</a><a href="/tam-nhin-a26.html">Tầm nhìn</a><a
-                            href="/su-menh-a27.html">Sứ mệnh</a><a href="/gia-tri-cot-loi-a28.html">Giá trị cốt lõi</a>
-                    </div>
-                    <div>
-                        <p style="text-align:justify"><strong>Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải
-                            </strong>được thành lập năm 2006, với đội ngũ cán bộ giàu kinh nghiệm và năng lực chuyên môn
-                            trong lĩnh vực quản lý tàu đã từng bước thiết lập và tạo mối quan hệ hợp tác lâu dài với
-                            nhiều đối tác có uy tín ở các nước trong khu vực từ đó tạo tiền để vững chắc để Công ty có
-                            thể cung cấp các dịch vụ quản lý tàu toàn diện bao gồm: quản lý về kĩ thuật, quản lý thuyền
-                            viên, quản lý tài chính kế toán, thuê tàu…</p>
-
-                        <div>
-                            <p style="text-align:justify">Chúng tôi có thể phục vụ tất cả các chủ tàu có nhu cầu quản lý
-                                tàu như thuê tàu trần, thuê định hạn tàu, nhu cầu nhập khẩu trọn gói thiết bị đóng
-                                tàu... với phương châm các bên <strong>“hợp tác cùng phát triển”</strong>. </p>
-                        </div>
-                    </div>
-                    <p class="more"><a
-                            href="http://anhaishipping.com.vn/?fbclid=IwAR0MpE-5KtIUGDmYtmniYLqukilkT4RnJjSBAAZM-6oheYFV2vm7367TzyU">Xem
-                            thêm</a>
-                    </p>
+<!--end slider-->
+<!-- About home -->
+<div class="about_home">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 brief_ah">
+                <div>
+                    <a href="#">Giới thiệu</a><a href="/tam-nhin-a26.html">Tầm nhìn</a><a
+                        href="/su-menh-a27.html">Sứ mệnh</a><a href="/gia-tri-cot-loi-a28.html">Giá trị cốt lõi</a>
                 </div>
-                <div class="col-12 col-md-6 img_ah">
-                    <a href="http://binhminhship.vn/index.php/doi-net-ve-cong-ty-a46.html"><img
-                            src="./images/about_home.jpg"
-                            alt="Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải"></a>
+                <div>
+                    <p style="text-align:justify"><strong>Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải
+                        </strong>được thành lập năm 2006, với đội ngũ cán bộ giàu kinh nghiệm và năng lực chuyên môn
+                        trong lĩnh vực quản lý tàu đã từng bước thiết lập và tạo mối quan hệ hợp tác lâu dài với
+                        nhiều đối tác có uy tín ở các nước trong khu vực từ đó tạo tiền để vững chắc để Công ty có
+                        thể cung cấp các dịch vụ quản lý tàu toàn diện bao gồm: quản lý về kĩ thuật, quản lý thuyền
+                        viên, quản lý tài chính kế toán, thuê tàu…</p>
+
+                    <div>
+                        <p style="text-align:justify">Chúng tôi có thể phục vụ tất cả các chủ tàu có nhu cầu quản lý
+                            tàu như thuê tàu trần, thuê định hạn tàu, nhu cầu nhập khẩu trọn gói thiết bị đóng
+                            tàu... với phương châm các bên <strong>“hợp tác cùng phát triển”</strong>. </p>
+                    </div>
                 </div>
+                <p class="more"><a
+                        href="http://anhaishipping.com.vn/?fbclid=IwAR0MpE-5KtIUGDmYtmniYLqukilkT4RnJjSBAAZM-6oheYFV2vm7367TzyU">Xem
+                        thêm</a>
+                </p>
+            </div>
+            <div class="col-12 col-md-6 img_ah">
+                <a href="http://binhminhship.vn/index.php/doi-net-ve-cong-ty-a46.html"><img
+                        src="./images/about_home.jpg" alt="Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải"></a>
             </div>
         </div>
     </div>
-    <!-- end home -->
+</div>
+<!-- end home -->
 
     <!-- Dịch vụ -->
     <div class="about_link">
@@ -266,12 +239,20 @@
                     <p>Công ty TNHH Dịch vụ và Thương mại và vận tải An Hải</p>
                 </div>
                 <div class="col-4 right text-left bg-white rounded-circle">
-                    <a href="tel:0225 8830218 | 0976 087 584">      <img
-                        style="height: 394px"
+                    <a href="tel:0225 8830218 | 0976 087 584">      
+                        <img
+                        style="height: 40px; width: 40px;"
                         src="<?php echo esc_url( get_theme_file_uri( '/assets/images/phone/phone_icon.png' ) ) ?>"
                         alt="<?php the_title(); ?>"
-                      /> 0225 8830218</a>
-                    <a href="tel:0225 8830218 | 0976 087 584"> <img src="./images/phone/phone_icon.png" alt=""> 0976 087 584</a>
+                        /> 
+                      0225 8830218</a>
+                    <a href="tel:0225 8830218 | 0976 087 584">  
+                        <img
+                        style="height: 40px; width: 40px;"
+                        src="<?php echo esc_url( get_theme_file_uri( '/assets/images/phone/phone_icon.png' ) ) ?>"
+                        alt="<?php the_title(); ?>"
+                        />  
+                      0976 087 584</a>
                 </div>
 
             </div>
@@ -286,7 +267,8 @@
                 <div class="col-12 col-md-4">
                     <p class="tit_al" style="padding-left: 0;">Tin tức công ty</p>
                     <div class="news_i">
-                        <a href="/tin-tuc-cong-ty/thong-bao-chuyen-dia-diem-n43.html"><img
+                        <a href="/tin-tuc-cong-ty/thong-bao-chuyen-dia-diem-n43.html">
+                            <img
                                 src="./images/news/news_1.jpg" alt="Dịch Vụ Vận Chuyển Thuê Xe Nguyên Chuyến Là Gì?"></a>
                         <h3><a href="/tin-tuc-cong-ty/thong-bao-chuyen-dia-diem-n43.html">Dịch Vụ Vận Chuyển Thuê Xe Nguyên Chuyến Là Gì?</a>
                         </h3>
@@ -395,7 +377,14 @@
                                     <br /><br />
                                 </div>
                                 <div class="col-12 col-md-8 text-center text-md-left">
-                                    <a href=""><img src="./images/icon_social/facebook-icon.png" alt="Facebook"></a><a
+                                    <a href="">                        
+                                        <img
+                                        style=""
+                                        src="<?php echo esc_url( get_theme_file_uri( '/assets/images/icon_social/facebook-icon.png' ) ) ?>"
+                                        alt="<?php the_title(); ?>"
+                                        />
+                                    </a>
+                                        <a
                                         href=""><img src="./images/icon_social/instagram-colourful-icon.png"
                                             alt="Instagram"></a><a href=""><img src="./images/icon_social/twitter.png"
                                             alt="Twitter"></a><a href=""><img
