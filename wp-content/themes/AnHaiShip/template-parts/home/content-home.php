@@ -4,22 +4,24 @@
 
     <div class="row">
       <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-        <img src="wp-content/themes/AnHaiShip/assets/img/about.jpg" class="img-fluid" alt="">
+      <img class="img-fluid"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/about.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-        <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+        <h3>Công ty TNHH Dịch vụ và Thương mại vận tải An Hải</h3>
         <p class="fst-italic">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
+          Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lý và sở hữu đội tàu hiện tại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000DWT.
         </p>
-        <ul>
+        <!-- <ul>
           <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
           <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
           <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-        </ul>
+        </ul> -->
         <p>
-          Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-          velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+          Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty.
         </p>
       </div>
     </div>
@@ -33,14 +35,14 @@
 
     <div class="clients-slider swiper">
       <div class="swiper-wrapper align-items-center">
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_1.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_2.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_3.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_4.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_6.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_7.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_8.jpg" class="img-fluid" alt=""></div>
       </div>
       <div class="swiper-pagination"></div>
     </div>
@@ -53,33 +55,35 @@
   <div class="container" data-aos="fade-up">
 
     <div class="row">
-      <div class="image col-lg-6" style='background-image: url("wp-content/themes/AnHaiShip/assets/img/features.jpg");' data-aos="fade-right"></div>
+      <div class="image col-lg-6" 
+      style='background-image: url("wp-content/themes/AnHaiShip/assets/images/about.jpg");' data-aos="fade-right"></div>
       <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-receipt"></i>
-          <h4>Est labore ad</h4>
-          <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+          <h4>Về chúng tôi</h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-cube-alt"></i>
-          <h4>Harum esse qui</h4>
+          <h4>Dịch vụ</h4>
           <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-images"></i>
-          <h4>Aut occaecati</h4>
+          <h4>Đội tàu</h4>
           <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-shield"></i>
-          <h4>Beatae veritatis</h4>
+          <h4>Tin tức</h4>
           <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
         </div>
       </div>
     </div>
 
   </div>
-</section><!-- End Features Section -->
+</section>
+<!-- End Features Section -->
 
 <!-- ======= Services Section ======= -->
 <section id="services" class="services">
@@ -87,55 +91,55 @@
 
     <div class="section-title">
       <h2>Services</h2>
-      <p>Check our Services</p>
+      <p>Lĩnh vực hoạt động</p>
     </div>
 
     <div class="row">
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
         <div class="icon-box">
           <div class="icon"><i class="bx bxl-dribbble"></i></div>
-          <h4><a href="">Lorem Ipsum</a></h4>
-          <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+          <h4><a href="">Vận tải Quốc tế & Nội địa</a></h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
-          <h4><a href="">Sed ut perspiciatis</a></h4>
-          <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+          <h4><a href="">Logistic</a></h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-tachometer"></i></div>
-          <h4><a href="">Magni Dolores</a></h4>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+          <h4><a href="">Cho thuê tàu</a></h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-world"></i></div>
-          <h4><a href="">Nemo Enim</a></h4>
-          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+          <h4><a href="">Mua bán tàu</a></h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-slideshow"></i></div>
-          <h4><a href="">Dele cardo</a></h4>
-          <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+          <h4><a href="">Quản lý & Cung ứng thuyền viên</a></h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-arch"></i></div>
-          <h4><a href="">Divera don</a></h4>
-          <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+          <h4><a href="">Dịch vụ khác</a></h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
         </div>
       </div>
 
@@ -160,12 +164,10 @@
 <!-- ======= Portfolio Section ======= -->
 <section id="portfolio" class="portfolio">
   <div class="container" data-aos="fade-up">
-
     <div class="section-title">
-      <h2>Portfolio</h2>
-      <p>Check our Portfolio</p>
+      <h2>Dự án</h2>
+      <p>Dự án tiêu biểu</p>
     </div>
-
     <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class="col-lg-12 d-flex justify-content-center">
         <ul id="portfolio-flters">
@@ -176,23 +178,20 @@
         </ul>
       </div>
     </div>
-
     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+          <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>App 1</h4>
             <p>App</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio_2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
@@ -206,7 +205,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
@@ -220,7 +218,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
@@ -234,7 +231,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
@@ -248,7 +244,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
@@ -262,7 +257,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
@@ -276,7 +270,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
@@ -290,7 +283,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
@@ -304,9 +296,7 @@
           </div>
         </div>
       </div>
-
     </div>
-
   </div>
 </section><!-- End Portfolio Section -->
 
@@ -371,7 +361,11 @@
 
         <div class="swiper-slide">
           <div class="testimonial-item">
-            <img src="wp-content/themes/AnHaiShip/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <img class="testimonial-img"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_1.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          /></div>
             <h3>Saul Goodman</h3>
             <h4>Ceo &amp; Founder</h4>
             <p>
@@ -384,7 +378,11 @@
 
         <div class="swiper-slide">
           <div class="testimonial-item">
-            <img src="wp-content/themes/AnHaiShip/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+          <img class="testimonial-img"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_2.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          /></div>
             <h3>Sara Wilsson</h3>
             <h4>Designer</h4>
             <p>
@@ -397,7 +395,11 @@
 
         <div class="swiper-slide">
           <div class="testimonial-item">
-            <img src="wp-content/themes/AnHaiShip/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+          <img class="testimonial-img"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_3.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <h3>Jena Karlis</h3>
             <h4>Store Owner</h4>
             <p>
@@ -410,7 +412,11 @@
 
         <div class="swiper-slide">
           <div class="testimonial-item">
-            <img src="wp-content/themes/AnHaiShip/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+          <img class="testimonial-img"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_4.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <h3>Matt Brandon</h3>
             <h4>Freelancer</h4>
             <p>
@@ -423,7 +429,11 @@
 
         <div class="swiper-slide">
           <div class="testimonial-item">
-            <img src="wp-content/themes/AnHaiShip/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+          <img class="testimonial-img"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_1.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <h3>John Larson</h3>
             <h4>Entrepreneur</h4>
             <p>
@@ -454,7 +464,11 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="wp-content/themes/AnHaiShip/assets/img/team/team-1.jpg" class="img-fluid" alt="">
+          <img class="img-fluid"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_1.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <div class="social">
               <a href=""><i class="bi bi-twitter"></i></a>
               <a href=""><i class="bi bi-facebook"></i></a>
@@ -472,7 +486,11 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member" data-aos="fade-up" data-aos-delay="200">
           <div class="member-img">
-            <img src="wp-content/themes/AnHaiShip/assets/img/team/team-2.jpg" class="img-fluid" alt="">
+          <img class="img-fluid"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_2.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <div class="social">
               <a href=""><i class="bi bi-twitter"></i></a>
               <a href=""><i class="bi bi-facebook"></i></a>
@@ -490,7 +508,11 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member" data-aos="fade-up" data-aos-delay="300">
           <div class="member-img">
-            <img src="wp-content/themes/AnHaiShip/assets/img/team/team-3.jpg" class="img-fluid" alt="">
+          <img class="img-fluid"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_3.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <div class="social">
               <a href=""><i class="bi bi-twitter"></i></a>
               <a href=""><i class="bi bi-facebook"></i></a>
@@ -508,7 +530,11 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member" data-aos="fade-up" data-aos-delay="400">
           <div class="member-img">
-            <img src="wp-content/themes/AnHaiShip/assets/img/team/team-4.jpg" class="img-fluid" alt="">
+          <img class="img-fluid"
+               style=""
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_4.jpg' ) ) ?>"
+               alt="<?php the_title(); ?>"
+          />
             <div class="social">
               <a href=""><i class="bi bi-twitter"></i></a>
               <a href=""><i class="bi bi-facebook"></i></a>
