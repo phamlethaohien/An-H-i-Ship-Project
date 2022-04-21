@@ -109,23 +109,26 @@
       <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-receipt"></i>
-          <h4>Về chúng tôi</h4>
+          <h4>Quá trình hình thành</h4>
           <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-          <i class="bx bx-cube-alt"></i>
-          <h4>Dịch vụ</h4>
-          <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+          <i class="bx bx-calendar"></i>
+          <h4>2000</h4>
+          <h4>Ngày đầu thành lập vận tải An Hải</h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-          <i class="bx bx-images"></i>
-          <h4>Đội tàu</h4>
-          <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+          <i class="bx bx-calendar"></i>
+          <h4>2010</h4>
+          <h4>Định hướng & phát triển lâu dài</h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-          <i class="bx bx-shield"></i>
-          <h4>Tin tức</h4>
-          <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+          <i class="bx bx-calendar"></i>
+          <h4>2021</h4>
+          <h4>Vươn tầm thế giới</h4>
+          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
       </div>
     </div>
@@ -196,20 +199,6 @@
 
   </div>
 </section><!-- End Services Section -->
-
-<!-- ======= Cta Section ======= -->
-
-<section id="cta" class="cta">
-  <div class="container" data-aos="zoom-in">
-
-    <div class="text-center">
-      <h3>Call To Action</h3>
-      <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <a class="cta-btn" href="#">Call To Action</a>
-    </div>
-
-  </div>
-</section><!-- End Cta Section -->
 
 <!-- ======= Portfolio Section ======= -->
 <section id="portfolio" class="portfolio">
@@ -350,10 +339,32 @@
   </div>
 </section><!-- End Portfolio Section -->
 
+<!-- ======= Cta Section ======= -->
+
+<section id="cta" class="cta">
+  <div class="container" data-aos="zoom-in">
+
+    <div class="text-center">
+      <h3>Tầm nhìn</h3>
+      <p> Trở thành một trong những công ty vận tải biển hàng đầu khu vực Đông Nam Á đặc biệt trong lĩnh vực vận chuyển hàng khô rời, là đối tác tin cậy của khách hàng trên khắp thế giới qua việc cung cấp chất lượng dịch vụ ngày càng tốt hơn với giá cạnh tranh, liên tục đổi mới và tạo ra sự khác biệt trong các sản phẩm dịch vụ.</p>
+      <h3>Sứ mệnh, tôn chỉ hoạt động</h3>
+      <p>An Hải là doanh nghiệp chuyên vận chuyển hàng hoá khắp thế giới bằng đường biển. Với mong muốn đóng góp nhiều hơn vào chuỗi logistics toàn cầu, Chúng tôi còn tham gia hoạt động ở các lĩnh vực về dịch vụ hàng hải khác với chất lượng tốt và giá cả cạnh tranh.
+
+Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty. Vì thế chúng tôi luôn nỗ lực tái cấu trúc và hiện đại hóa, trẻ hoá đội tàu, xây dựng một hệ thống chất lượng cung cấp dịch vụ vận tải đạt hiệu quả cao và bảo vệ môi trường, hạn chế tối đa các rủi ro, đảm bảo quyền lợi cho các khách hàng. Chúng tôi luôn tìm mọi cách để nâng cao chất lượng dịch vụ, đa dạng hoá các loại hình kinh doanh, củng cố và phát triển thị trường …</p>
+      
+    </div>
+
+  </div>
+</section>
+<!-- End Cta Section -->
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
   <div class="container" data-aos="fade-up">
-
+  <div class="container" data-aos="fade-up">
+    <div class="section-title">
+      <h2>Services</h2>
+      <p>Thành Tích Ấn Tượng</p>
+    </div>
     <div class="row no-gutters">
       <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay="100">
       <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_3.jpg" class="img-fluid" alt="">
@@ -361,40 +372,39 @@
       
       <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
         <div class="content d-flex flex-column justify-content-center">
-          <h3>Thành Tích Ấn Tượng</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
           </p>
           <div class="row">
             <div class="col-md-6 d-md-flex align-items-md-stretch">
               <div class="count-box">
-                <i class="bi bi-emoji-smile"></i>
-                <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="2" class="purecounter"></span>
-                <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 d-md-flex align-items-md-stretch">
-              <div class="count-box">
-                <i class="bi bi-journal-richtext"></i>
-                <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="2" class="purecounter"></span>
-                <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
-              </div>
-            </div>
-
-            <div class="col-md-6 d-md-flex align-items-md-stretch">
-              <div class="count-box">
-                <i class="bi bi-clock"></i>
-                <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="4" class="purecounter"></span>
-                <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
+              <i class="bi bi-heart"></i>
+                <span data-purecounter-start="0" data-purecounter-end="756" data-purecounter-duration="2" class="purecounter"></span>
+                <p><strong>Khách hàng hài lòng</strong></p>
               </div>
             </div>
 
             <div class="col-md-6 d-md-flex align-items-md-stretch">
               <div class="count-box">
                 <i class="bi bi-award"></i>
-                <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="4" class="purecounter"></span>
-                <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
+                <span data-purecounter-start="0" data-purecounter-end="1002" data-purecounter-duration="4" class="purecounter"></span>
+                <p><strong>Tổng đơn hoàn thành</strong></p>
+              </div>
+            </div>
+
+            <div class="col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <i class="bi bi-building"></i>
+                <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="4" class="purecounter"></span>
+                <p><strong>Chi nhánh</strong></p>
+              </div>
+            </div>
+
+            <div class="col-md-6 d-md-flex align-items-md-stretch">
+              <div class="count-box">
+                <i class="bi bi-people"></i>
+                <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="4" class="purecounter"></span>
+                <p><strong>Đội ngũ nhân lực</strong></p>
               </div>
             </div>
           </div>
@@ -403,211 +413,97 @@
     </div>
 
   </div>
-</section><!-- End Counts Section -->
+</section>
+<!-- End Counts Section -->
+
 
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="testimonials">
-  <div class="container" data-aos="zoom-in">
-
-    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-      <div class="swiper-wrapper">
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-          <img class="testimonial-img"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_1.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          /></div>
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-          <img class="testimonial-img"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_2.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          /></div>
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-          <img class="testimonial-img"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_3.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-        </div>
-        <!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-          <img class="testimonial-img"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_4.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-          <img class="testimonial-img"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/slides/slide_1.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-        </div><!-- End testimonial item -->
-      </div>
-      <div class="swiper-pagination"></div>
-    </div>
-
+<div class="carousel">
+  <div class="carousel__nav">
+   <span id="moveLeft" class="carousel__arrow">
+        <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
+    <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
+</svg>
+    </span>
+    <span id="moveRight" class="carousel__arrow" >
+      <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
+  <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
+</svg>    
+    </span>
   </div>
-</section><!-- End Testimonials Section -->
-
-<!-- ======= Team Section ======= -->
-<section id="team" class="team">
-  <div class="container" data-aos="fade-up">
- 
-    <div class="section-title">
-      <h2>Dự án</h2>
-      <p>Dự án tiêu biểu</p>
+  <div class="carousel-item carousel-item--1">
+    <div class="carousel-item__image">
+    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" class="img-fluid" alt="">
     </div>
- 
-    <div class="row">
- 
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member" data-aos="fade-up" data-aos-delay="100">
-          <div class="member-img">
-          <img class="img-fluid"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_1.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <div class="social">
-              <a href=""><i class="bi bi-twitter"></i></a>
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-              <a href=""><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4>Dự án test</h4>
-            <!-- <span>Chief Executive Officer</span> -->
-          </div>
+    <div class="carousel-item__info">
+      <div class="carousel-item__container">
+      <h2 class="carousel-item__subtitle">The grand moment </h2>
+      <h1 class="carousel-item__title">Le tour</h1>
+      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+      <a href="#" class="carousel-item__btn">Explore the tour</a>
         </div>
-      </div>
- 
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member" data-aos="fade-up" data-aos-delay="200">
-          <div class="member-img">
-          <img class="img-fluid"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_2.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <div class="social">
-              <a href=""><i class="bi bi-twitter"></i></a>
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-              <a href=""><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4>Vận tải An Hải triển khai thêm máy tải đến Bờ Đông Hoa Kỳ</h4>
-            <!-- <span>Product Manager</span> -->
-          </div>
-        </div>
-      </div>
- 
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member" data-aos="fade-up" data-aos-delay="300">
-          <div class="member-img">
-          <img class="img-fluid"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_3.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <div class="social">
-              <a href=""><i class="bi bi-twitter"></i></a>
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-              <a href=""><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4>Maersk Line - Vị thế số 1 trên đại dương</h4>
-            <!-- <span>CTO</span> -->
-          </div>
-        </div>
-      </div>
- 
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member" data-aos="fade-up" data-aos-delay="400">
-          <div class="member-img">
-          <img class="img-fluid"
-               style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/team/team_4.jpg' ) ) ?>"
-               alt="<?php the_title(); ?>"
-          />
-            <div class="social">
-              <a href=""><i class="bi bi-twitter"></i></a>
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-              <a href=""><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4>Vận tải An Hải triển khai thêm máy tải đến Bờ Đông Hoa Kỳ</h4>
-            <!-- <span>Accountant</span> -->
-          </div>
-        </div>
-      </div>
- 
     </div>
- 
   </div>
+  <div class="carousel-item carousel-item--2">
+    <div class="carousel-item__image">
+    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_2.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="carousel-item__info">
+      <div class="carousel-item__container">
+      <h2 class="carousel-item__subtitle">The big window </h2>
+      <h1 class="carousel-item__title">Minimal window</h1>
+      <p class="carousel-item__description">Clear Glass Window With Brown and White Wooden Frame iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+      <a href="#" class="carousel-item__btn">Read the article</a>
+        </div>
+    </div>
+  </div>
+    <div class="carousel-item carousel-item--3">
+    <div class="carousel-item__image">
+    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_3.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="carousel-item__info">
+      <div class="carousel-item__container">
+      <h2 class="carousel-item__subtitle">Tropical palms </h2>
+      <h1 class="carousel-item__title">Palms</h1>
+      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+      <a href="#" class="carousel-item__btn">Explore the palms</a>
+        </div>
+    </div>
+  </div>
+  
+   <div class="carousel-item carousel-item--4">
+    <div class="carousel-item__image">
+    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_4.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="carousel-item__info">
+      <div class="carousel-item__container">
+      <h2 class="carousel-item__subtitle">Beach </h2>
+      <h1 class="carousel-item__title">The beach </h1>
+      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+      <a href="#" class="carousel-item__btn">Explore the beach</a>
+        </div>
+    </div>
+  </div>
+  
+ <div class="carousel-item carousel-item--5">
+    <div class="carousel-item__image">
+    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_5.jpg" class="img-fluid" alt="">
+    </div>
+    <div class="carousel-item__info">
+      <div class="carousel-item__container">
+      <h2 class="carousel-item__subtitle">The white building </h2>
+      <h1 class="carousel-item__title">White building</h1>
+      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+      <a href="#" class="carousel-item__btn">Read the article</a>
+        </div>
+    </div>
+  </div>
+  
+</div>
 </section>
-<!-- End Team Section -->
+<!-- End Testimonials Section -->
+
 
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
@@ -619,7 +515,7 @@
     </div>
  
     <div>
-      <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+      <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3728.971636379319!2d106.70990611492688!3d20.83285179981322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314a7aa87690f689%3A0x5baf7212e28486f0!2zVHJ1bmcgSMOgbmggNSwgxJDhurFuZyBMw6JtLCBI4bqjaSBBbiwgSOG6o2kgUGjDsm5nLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1625193331448!5m2!1svi!2s" frameborder="0" allowfullscreen></iframe>
     </div>
  
     <div class="row mt-5">
@@ -679,3 +575,5 @@
  
   </div>
 </section><!-- End Contact Section -->
+
+<script src="wp-content/themes/AnHaiShip/assets/js/main.js"></script>

@@ -13,11 +13,11 @@
 							}
 							?>
 							<a href="/" class="logo me-auto me-lg-0"><img src="<?php echo $logo ?>" alt="" class="img-fluid"></a>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+              <p>Địa chỉ:
+              Số 110, Lô 17 Mở Rộng, Đường Trung Hành 5, Phường Đằng Lâm, Quận Hải An, Thành phố Hải Phòng. 
+              <br>
+                <strong>Điện thoại:</strong>:</strong> 0225 8830218 | 0976 087 584<br>
+                <strong>Email:</strong> chartering@anhaishipping.com.vn<br>
               </p>
               
             </div>
