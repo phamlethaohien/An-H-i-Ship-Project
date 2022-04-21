@@ -1150,7 +1150,7 @@ header-main .header-stick {
 #hero {
   width: 100%;
   height: 65vh;
-  background: url("assets/images/portfolio/portfolio_3.jpg") top center;
+  background: url("assets/images/AnHaiShip/anhai_4.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -2158,6 +2158,10 @@ transform: translateX(0);
   opacity: 1;
   bottom: 15px;
 }
+
+/* #section */
+
+/* #end section */
 
 /*--------------------------------------------------------------
   # Contact

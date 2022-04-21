@@ -6,7 +6,7 @@
       <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
       <img class="img-fluid"
                style=""
-               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/about.jpg' ) ) ?>"
+               src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHaiShip/anhai_1.jpg' ) ) ?>"
                alt="<?php the_title(); ?>"
           />
       </div>
@@ -49,7 +49,7 @@
                     nhu cầu của khách hàng trong suốt thời gian dài.</p>
                   </div>
                 </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_1.jpg" class="img-fluid d-block w-100" alt=""> </div>
+                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_3.jpg" class="img-fluid d-block w-100" alt=""> </div>
               </div>
               <div class="slider">
                 <div class="legend"></div>
@@ -59,7 +59,7 @@
                     <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
                   </div>
                 </div>
-                <div class="image-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_2.jpg" class="img-fluid d-block w-100" alt=""> </div>
+                <div class="image-slide"><img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_2.jpg" class="img-fluid d-block w-100" alt=""> </div>
               </div>
               <div class="slider">
                 <div class="legend"></div>
@@ -69,7 +69,7 @@
                     <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
                   </div>
                 </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_3.jpg" class="img-fluid d-block w-100" alt=""> </div>
+                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_4.jpg" class="img-fluid d-block w-100" alt=""> </div>
               </div>
               <div class="slider">
                 <div class="legend"></div>
@@ -79,7 +79,7 @@
                     <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
                   </div>
                 </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_4.jpg" class="img-fluid d-block w-100" alt=""> </div>
+                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_5.jpg" class="img-fluid d-block w-100" alt=""> </div>
               </div>
             </div>
             <div class="switch">
@@ -105,7 +105,7 @@
 
     <div class="row">
       <div class="image col-lg-6" 
-      style='background-image: url("wp-content/themes/AnHaiShip/assets/images/about.jpg");' data-aos="fade-right"></div>
+      style='background-image: url("wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_5.jpg");' data-aos="fade-right"></div>
       <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-receipt"></i>
@@ -220,12 +220,12 @@
     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" class="img-fluid" alt="">
+          <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_5.jpg.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Ảnh 1</h4>
             <p>Ảnh</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_5.jpg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -259,12 +259,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_5.jpg" class="img-fluid" alt="">
+          <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_2.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Video 2</h4>
             <p>Video</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_2.jpg.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -285,12 +285,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" class="img-fluid" alt="">
+          <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_1.jpg.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Ảnh 3</h4>
             <p>Ảnh</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
@@ -367,7 +367,7 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
     </div>
     <div class="row no-gutters">
       <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay="100">
-      <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_3.jpg" class="img-fluid" alt="">
+      <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_4.jpg" class="img-fluid" alt="">
       </div>
       
       <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
@@ -415,95 +415,6 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
   </div>
 </section>
 <!-- End Counts Section -->
-
-
-<!-- ======= Testimonials Section ======= -->
-<section id="testimonials" class="testimonials">
-<div class="carousel">
-  <div class="carousel__nav">
-   <span id="moveLeft" class="carousel__arrow">
-        <svg class="carousel__icon" width="24" height="24" viewBox="0 0 24 24">
-    <path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z"></path>
-</svg>
-    </span>
-    <span id="moveRight" class="carousel__arrow" >
-      <svg class="carousel__icon"  width="24" height="24" viewBox="0 0 24 24">
-  <path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z"></path>
-</svg>    
-    </span>
-  </div>
-  <div class="carousel-item carousel-item--1">
-    <div class="carousel-item__image">
-    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_1.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="carousel-item__info">
-      <div class="carousel-item__container">
-      <h2 class="carousel-item__subtitle">The grand moment </h2>
-      <h1 class="carousel-item__title">Le tour</h1>
-      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-      <a href="#" class="carousel-item__btn">Explore the tour</a>
-        </div>
-    </div>
-  </div>
-  <div class="carousel-item carousel-item--2">
-    <div class="carousel-item__image">
-    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_2.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="carousel-item__info">
-      <div class="carousel-item__container">
-      <h2 class="carousel-item__subtitle">The big window </h2>
-      <h1 class="carousel-item__title">Minimal window</h1>
-      <p class="carousel-item__description">Clear Glass Window With Brown and White Wooden Frame iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-      <a href="#" class="carousel-item__btn">Read the article</a>
-        </div>
-    </div>
-  </div>
-    <div class="carousel-item carousel-item--3">
-    <div class="carousel-item__image">
-    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_3.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="carousel-item__info">
-      <div class="carousel-item__container">
-      <h2 class="carousel-item__subtitle">Tropical palms </h2>
-      <h1 class="carousel-item__title">Palms</h1>
-      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-      <a href="#" class="carousel-item__btn">Explore the palms</a>
-        </div>
-    </div>
-  </div>
-  
-   <div class="carousel-item carousel-item--4">
-    <div class="carousel-item__image">
-    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_4.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="carousel-item__info">
-      <div class="carousel-item__container">
-      <h2 class="carousel-item__subtitle">Beach </h2>
-      <h1 class="carousel-item__title">The beach </h1>
-      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-      <a href="#" class="carousel-item__btn">Explore the beach</a>
-        </div>
-    </div>
-  </div>
-  
- <div class="carousel-item carousel-item--5">
-    <div class="carousel-item__image">
-    <img src="wp-content/themes/AnHaiShip/assets/images/portfolio/portfolio_5.jpg" class="img-fluid" alt="">
-    </div>
-    <div class="carousel-item__info">
-      <div class="carousel-item__container">
-      <h2 class="carousel-item__subtitle">The white building </h2>
-      <h1 class="carousel-item__title">White building</h1>
-      <p class="carousel-item__description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-      <a href="#" class="carousel-item__btn">Read the article</a>
-        </div>
-    </div>
-  </div>
-  
-</div>
-</section>
-<!-- End Testimonials Section -->
-
 
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
