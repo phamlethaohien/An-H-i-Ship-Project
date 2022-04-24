@@ -77,7 +77,7 @@
 			</div>
 
       <?php if ( is_front_page() ) : ?>
-        <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
+        <div class="row gy-4 mt-5 justify-content-center getting-started-services" data-aos="zoom-in" data-aos-delay="250">
           <div class="col-xl-2 col-md-4">
             <div class="icon-box">
               <i class="ri-store-line"></i>
