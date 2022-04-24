@@ -38,6 +38,7 @@
     <div class="rt-container">
     	<div class="col-rt-12">
   <!-- Slider -->
+        <div class="container">
           <div id="slider">
             <div class="slides">
               <div class="slider">
@@ -93,7 +94,8 @@
               </ul>
             </div>
           </div>
-         </div> 
+        </div>
+      </div> 
 	 </div>          
 </section>
 

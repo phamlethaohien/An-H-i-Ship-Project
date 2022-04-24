@@ -2382,7 +2382,7 @@ transform: translateX(0);
 
 #slider {
   width: 100%;
-  height: 500px;
+  height: 700px;
   position: relative;
   overflow: hidden;
 }
@@ -2457,7 +2457,7 @@ transform: translateX(0);
   height: 150px;
   float: left;
   position: relative;
-  top: 300px;
+  top: 450px;
   -webkit-animation: content-s 7.5s infinite;
   -moz-animation: content-s 7.5s infinite;
   animation: content-s 7.5s infinite;
@@ -2482,7 +2482,18 @@ transform: translateX(0);
   text-align: left;
   margin-left: 30px;
 }
-
+@media (max-width: 667px) {
+  .content-txt {
+    width: 300px;
+    height: 150px;
+    float: left;
+    position: relative;
+    top: 400px;
+    -webkit-animation: content-s 7.5s infinite;
+    -moz-animation: content-s 7.5s infinite;
+    animation: content-s 7.5s infinite;
+  }
+}
 /* Switch */
 .switch {
   width: 120px;
