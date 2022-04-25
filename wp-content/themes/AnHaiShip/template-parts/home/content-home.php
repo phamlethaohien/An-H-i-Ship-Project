@@ -31,73 +31,23 @@
 </section><!-- End About Section -->
 
 <!-- ======= Clients Section ======= -->
-
-
-
-<section> 
-    <div class="rt-container">
-    	<div class="col-rt-12">
-  <!-- Slider -->
-          <div id="slider">
-            <div class="slides">
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
-                    <p>Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
-                    nhu cầu của khách hàng trong suốt thời gian dài.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_3.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"><img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_2.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_4.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_5.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-            </div>
-            <div class="switch">
-              <ul>
-                <li>
-                  <div class="on"></div>
-                </li>
-                <li></li>
-                <li></li>
-                <li></li>
-              </ul>
-            </div>
-          </div>
-         </div> 
-	 </div>          
-</section>
-
-<!-- End Clients Section -->
+<section id="clients" class="clients">
+  <div class="container" data-aos="zoom-in">
+    <div class="clients-slider swiper">
+      <div class="swiper-wrapper align-items-center">
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_1.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_2.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_3.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_4.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_6.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_7.jpg" class="img-fluid" alt=""></div>
+        <div class="swiper-slide"><img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_8.jpg" class="img-fluid" alt=""></div>
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+</section><!-- End Clients Section -->
 
 <!-- ======= Features Section ======= -->
 <section id="features" class="features">
@@ -367,7 +317,7 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
     </div>
     <div class="row no-gutters">
       <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay="100">
-      <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_4.jpg" class="img-fluid" alt="">
+      <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_1.jpg" class="img-fluid" alt="">
       </div>
       
       <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
