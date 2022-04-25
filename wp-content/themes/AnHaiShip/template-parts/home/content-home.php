@@ -30,74 +30,76 @@
   </div>
 </section><!-- End About Section -->
 
-<!-- ======= Clients Section ======= -->
-
-
-
-<section> 
-    <div class="rt-container">
-    	<div class="col-rt-12">
-  <!-- Slider -->
-          <div id="slider">
-            <div class="slides">
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
-                    <p>Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
-                    nhu cầu của khách hàng trong suốt thời gian dài.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_3.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"><img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_2.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_4.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHaiShip/anhai_5.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-            </div>
-            <div class="switch">
-              <ul>
-                <li>
-                  <div class="on"></div>
-                </li>
-                <li></li>
-                <li></li>
-                <li></li>
-              </ul>
-            </div>
+<!-- ======= Testimonials Section ======= -->
+<section id="testimonials" class="testimonials">
+  <div class="container" data-aos="zoom-in">
+    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="testimonial-img" alt="">
+            <h4>Cho thuê, mua bán Tàu</h4>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Chúng tôi mua và bán các loại tàu đã qua sử dụng, tàu phá dỡ và
+                        tàu đóng mới theo nhu cầu cụ thể của khách hàng.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
           </div>
-         </div> 
-	 </div>          
-</section>
-
-<!-- End Clients Section -->
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="testimonial-img" alt="">
+            <h4>Hệ Thống Tàu Biển Chất Lượng Cao</h4>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
+                        nhu cầu của khách hàng trong suốt thời gian dài.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="testimonial-img" alt="">
+            <h4>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h4>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Công ty đang tiếp tục mở rộng phạm vi vận tải ra các khu vực khác
+                        trên thế giới để đáp ứng mọi nhu cầu vận chuyển của khách hàng
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="testimonial-img" alt="">
+            <h4>Matt Brandon</h4>
+            <h4>Freelancer</h4>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide">
+          <div class="testimonial-item">
+            <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_5.jpg" class="testimonial-img" alt="">
+            <h4>John Larson</h4>
+            <h4>Entrepreneur</h4>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+</section><!-- End Testimonials Section -->
 
 <!-- ======= Features Section ======= -->
 <section id="features" class="features">
@@ -109,25 +111,25 @@
       <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-receipt"></i>
-          <h4>Quá trình hình thành</h4>
+          <h3>Quá trình hình thành</h3>
           <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-calendar"></i>
-          <h4>2000</h4>
-          <h4>Ngày đầu thành lập vận tải An Hải</h4>
+          <h3>2000</h3>
+          <h3>Ngày đầu thành lập vận tải An Hải</h3>
           <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-calendar"></i>
-          <h4>2010</h4>
-          <h4>Định hướng & phát triển lâu dài</h4>
+          <h3>2010</h3>
+          <h3>Định hướng & phát triển lâu dài</h3>
           <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-calendar"></i>
-          <h4>2021</h4>
-          <h4>Vươn tầm thế giới</h4>
+          <h3>2021</h3>
+          <h3>Vươn tầm thế giới</h3>
           <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…</p>
         </div>
       </div>
@@ -388,7 +390,7 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
               <div class="count-box">
                 <i class="bi bi-award"></i>
                 <span data-purecounter-start="0" data-purecounter-end="1002" data-purecounter-duration="4" class="purecounter"></span>
-                <p><strong>Tổng đơn hoàn thành</strong></p>
+                <p><strong>Số lượt truy cập trong tháng</strong></p>
               </div>
             </div>
 
@@ -403,7 +405,7 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
             <div class="col-md-6 d-md-flex align-items-md-stretch">
               <div class="count-box">
                 <i class="bi bi-people"></i>
-                <span data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="4" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="200" data-purecounter-duration="4" class="purecounter"></span>
                 <p><strong>Đội ngũ nhân lực</strong></p>
               </div>
             </div>
@@ -442,13 +444,19 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
           <div class="email">
             <i class="bi bi-envelope"></i>
             <h4>Email:</h4>
-            <p>chartering@anhaishipping.com.vn</p>
+            <p>chartering@anhaishipping.com.vn   ops@anhaishipping.com.vn</p>
           </div>
  
           <div class="phone">
             <i class="bi bi-phone"></i>
             <h4>Điện thoại:</h4>
-            <p>0225 8830218 | 0976 087 584</p>
+            <p>0225 8830218</p>
+          </div>
+
+          <div class="fax">
+            <i class="bi bi-envelope"></i>
+            <h4>Fax:</h4>
+            <p>+84 225 8830218</p>
           </div>
  
         </div>

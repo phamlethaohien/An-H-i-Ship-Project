@@ -16,8 +16,9 @@
               <p>Địa chỉ:
               Số 110, Lô 17 Mở Rộng, Đường Trung Hành 5, Phường Đằng Lâm, Quận Hải An, Thành phố Hải Phòng. 
               <br>
-                <strong>Điện thoại:</strong>:</strong> 0225 8830218 | 0976 087 584<br>
-                <strong>Email:</strong> chartering@anhaishipping.com.vn<br>
+                <strong>Điện thoại:</strong>:</strong> 0225 8830218<br>
+                <strong>Fax:</strong>:</strong> +84 225 8830218<br>
+                <strong>Email:</strong> chartering@anhaishipping.com.vn    ops@anhaishipping.com.vn<br>
               </p>
               
             </div>
