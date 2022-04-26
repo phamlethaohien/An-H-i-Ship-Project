@@ -10,8 +10,7 @@
 
   <?php wp_head(); ?>
   <!-- Favicons -->
-  <link href="wp-content/themes/AnHaiShip/assets/img/favicon.png" rel="icon">
-  <link href="wp-content/themes/AnHaiShip/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="wp-content/themes/AnHaiShip/assets/images/favicon.png" rel="icon">
 </head>
 
 <body>
@@ -70,9 +69,9 @@
 		<div class="container" data-aos="fade-up">
 
 			<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-				<div class="col-xl-6 col-lg-8">
-					<h1><?php echo get_bloginfo('name') ?><span>.</span></h1>
-					<h2><?php the_title(); ?></h2>
+				<div class="col-xl-8 col-lg-10">
+          <h2 class="mb-5"><?php echo get_bloginfo('name') ?></h2>
+					<h1><?php the_title(); ?><span>.</span></h1>
 				</div>
 			</div>
 
@@ -108,6 +107,9 @@
               <h3><a href="#services">Quản lý và cung ứng thuyền viên</a></h3>
             </div>
           </div>
+        </div>
+        <div class="text-center mt-5 d-sm-block d-md-none">
+          <a href="#services" class="btn btn-main">Dịch vụ của chúng tôi</a>
         </div>
       <?php endif; ?>
 		</div>

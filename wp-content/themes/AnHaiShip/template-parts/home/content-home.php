@@ -30,76 +30,62 @@
   </div>
 </section><!-- End About Section -->
 
-<!-- ======= Clients Section ======= -->
-
-
-
-<section> 
-    <div class="rt-container">
-    	<div class="col-rt-12">
-  <!-- Slider -->
-        <div class="container">
-          <div id="slider">
-            <div class="slides">
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
-                    <p>Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
-                    nhu cầu của khách hàng trong suốt thời gian dài.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_01.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"><img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_02.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Hệ Thống Tàu Biển Chất Lượng Cao</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"> <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_03.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-              <div class="slider">
-                <div class="legend"></div>
-                <div class="content-slide">
-                  <div class="content-txt">
-                    <h2>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h2>
-                    <p>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</p>
-                  </div>
-                </div>
-                <div class="image-slide"><img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_04.jpg" class="img-fluid d-block w-100" alt=""> </div>
-              </div>
-            </div>
-            <div class="switch">
-              <ul>
-                <li>
-                  <div class="on"></div>
-                </li>
-                <li></li>
-                <li></li>
-                <li></li>
-              </ul>
-            </div>
+<!-- ======= Testimonials Section ======= -->
+<section id="testimonials" class="testimonials mb-5">
+  <div class="container" data-aos="zoom-in">
+    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide slide-1">
+          <div class="testimonial-item">
+            <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_1.jpg" class="testimonial-img" alt=""> -->
+            <h3>Hệ Thống Tàu Biển Chất Lượng Cao</h3>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Dich vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
+                    nhu cầu của khách hàng trong suốt thời gian dài.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
           </div>
-        </div>
-      </div> 
-	 </div>          
-</section>
-
-<!-- End Clients Section -->
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide slide-2">
+          <div class="testimonial-item">
+            <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_2.jpg" class="testimonial-img" alt=""> -->
+            <h3>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h3>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide slide-3">
+          <div class="testimonial-item">
+            <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_3.jpg" class="testimonial-img" alt=""> -->
+            <h3>Hệ Thống Tàu Biển Chất Lượng Cao</h3>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+        <div class="swiper-slide slide-4">
+          <div class="testimonial-item">
+            <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_4.jpg" class="testimonial-img" alt=""> -->
+            <h3>Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu</h3>
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+          </div>
+        </div><!-- End testimonial item -->
+        <!-- End testimonial item -->
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+</section><!-- End Testimonials Section -->
 
 <!-- ======= Features Section ======= -->
 <section id="features" class="features">
@@ -213,14 +199,14 @@
       <div class="col-lg-12 d-flex justify-content-center">
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">Ảnh</li>
-          <li data-filter=".filter-card">Video</li>
-          <li data-filter=".filter-web">Chúng tôi</li>
+          <li data-filter=".filter-ship">Tàu biển</li>
+          <li data-filter=".filter-stock">Kho hàng</li>
+          <li data-filter=".filter-us">Chúng tôi</li>
         </ul>
       </div>
     </div>
     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_02.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -233,7 +219,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_01.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -246,7 +232,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_03.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -259,7 +245,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_04.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -272,7 +258,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_01.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -285,7 +271,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_02.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -298,7 +284,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_03.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -311,7 +297,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_04.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -324,7 +310,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+      <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
           <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_05.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
@@ -349,7 +335,7 @@
     <div class="text-center">
       <h3>Tầm nhìn</h3>
       <p> Trở thành một trong những công ty vận tải biển hàng đầu khu vực Đông Nam Á đặc biệt trong lĩnh vực vận chuyển hàng khô rời, là đối tác tin cậy của khách hàng trên khắp thế giới qua việc cung cấp chất lượng dịch vụ ngày càng tốt hơn với giá cạnh tranh, liên tục đổi mới và tạo ra sự khác biệt trong các sản phẩm dịch vụ.</p>
-      <h3>Sứ mệnh, tôn chỉ hoạt động</h3>
+      <h3 class="mt-5">Sứ mệnh, tôn chỉ hoạt động</h3>
       <p>An Hải là doanh nghiệp chuyên vận chuyển hàng hoá khắp thế giới bằng đường biển. Với mong muốn đóng góp nhiều hơn vào chuỗi logistics toàn cầu, Chúng tôi còn tham gia hoạt động ở các lĩnh vực về dịch vụ hàng hải khác với chất lượng tốt và giá cả cạnh tranh.
 
 Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty. Vì thế chúng tôi luôn nỗ lực tái cấu trúc và hiện đại hóa, trẻ hoá đội tàu, xây dựng một hệ thống chất lượng cung cấp dịch vụ vận tải đạt hiệu quả cao và bảo vệ môi trường, hạn chế tối đa các rủi ro, đảm bảo quyền lợi cho các khách hàng. Chúng tôi luôn tìm mọi cách để nâng cao chất lượng dịch vụ, đa dạng hoá các loại hình kinh doanh, củng cố và phát triển thị trường …</p>
@@ -444,13 +430,14 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
           <div class="email">
             <i class="bi bi-envelope"></i>
             <h4>Email:</h4>
-            <p>chartering@anhaishipping.com.vn</p>
+            <p>chartering@anhaishipping.com.vn <br> ops@anhaishipping.com.vn</p>
           </div>
  
           <div class="phone">
             <i class="bi bi-phone"></i>
             <h4>Điện thoại:</h4>
-            <p>0225 8830218 | 0976 087 584</p>
+            <p>0225 8830218</p>
+            <p><strong>Fax:</strong> +84 225 8830218</p>
           </div>
  
         </div>
