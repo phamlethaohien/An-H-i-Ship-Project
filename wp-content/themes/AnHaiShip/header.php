@@ -71,7 +71,7 @@
 			<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 				<div class="col-xl-8 col-lg-10">
           <h2 class="mb-5"><?php echo get_bloginfo('name') ?></h2>
-					<h1><?php the_title(); ?><span>.</span></h1>
+					<h1><?php single_post_title(); ?><span>.</span></h1>
 				</div>
 			</div>
 
