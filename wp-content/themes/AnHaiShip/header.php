@@ -16,7 +16,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
+  <header id="header" class="fixed-top header-main">
     <div class="container d-flex align-items-center justify-content-lg-between">
 			<?php
 			if(function_exists('the_custom_logo')){
@@ -58,8 +58,16 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+      <nav class="navbar order-last order-lg-0">
+        <ul>
+          <li class="get-started-btn dropdown">
+            <a href="#"><span>Ngôn ngữ</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dropdown-menu">
+              <?php pll_the_languages($args); ?>
+            </ul>
+          </li>
+        </ul>
+      </nav>
 
     </div>
   </header><!-- End Header -->
