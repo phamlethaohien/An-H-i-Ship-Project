@@ -63,7 +63,8 @@
           <li class="get-started-btn dropdown">
             <a href="#"><span>Ngôn ngữ</span> <i class="bi bi-chevron-down"></i></a>
             <ul class="dropdown-menu">
-              <?php pll_the_languages($args); ?>
+              <li class="lang-item lang-item-23 lang-item-vi current-lang lang-item-first"><a href="#"></a><a lang="vi" hreflang="vi" href="http://anhaishipping.com.vn/">Tiếng Việt</a></li>
+              <li class="lang-item lang-item-26 lang-item-en"><a lang="en-US" hreflang="en-US" href="http://anhaishipping.com.vn/en/">English</a></li>
             </ul>
           </li>
         </ul>
