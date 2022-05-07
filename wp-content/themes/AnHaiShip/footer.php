@@ -53,11 +53,7 @@
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Social</h4>
             <div class="social-links mt-3">
-							<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-							<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-							<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-							<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-							<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+							<a href="https://www.facebook.com/profile.php?id=100016342899214" class="facebook"><i class="bx bxl-facebook"></i></a>
 						</div>
 
           </div>

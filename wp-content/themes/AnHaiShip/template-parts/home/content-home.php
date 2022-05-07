@@ -214,7 +214,7 @@
             <p>Ảnh</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_02.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -227,7 +227,7 @@
             <p>Chúng tôi</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_01.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -240,7 +240,7 @@
             <p>Ảnh</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_03.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -253,7 +253,7 @@
             <p>Video</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_04.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -266,7 +266,7 @@
             <p>Video</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_07.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -279,7 +279,7 @@
             <p>Video</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_08.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -292,7 +292,7 @@
             <p>Chúng tôi</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_01.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -305,7 +305,7 @@
             <p>Ảnh</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_02.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -318,7 +318,7 @@
             <p>Video</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_03.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -331,7 +331,7 @@
             <p>Video</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_04.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -344,7 +344,7 @@
             <p>Chúng tôi</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_05.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>
@@ -357,7 +357,7 @@
             <p>Chúng tôi</p>
             <div class="portfolio-links">
               <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/us/us_01.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              <a href="/" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
         </div>

@@ -189,10 +189,6 @@ h6 {
   left: 0 !important;
 }
 
-.get-started-btn .dropdown-menu .lang-item:first-child>a:first-child {
-  display: none;
-}
-
 @media (max-width: 992px) {
   .get-started-btn {
     margin-right: 15px;
