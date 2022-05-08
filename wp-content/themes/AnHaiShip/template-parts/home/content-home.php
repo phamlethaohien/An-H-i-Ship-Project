@@ -139,7 +139,12 @@
         <div class="icon-box">
           <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_01.png" class="img-fluid" alt=""></div>
           <h4><a href="">Vận tải Quốc tế & Nội địa</a></h4>
-          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
+          <p>Hình thức vận chuyển hàng rời nội địa & quốc tế đường thủy là lĩnh vực chủ đạo của chúng tôi, với đội tàu chất lượng phù hợp với hệ thống kho cảng chuyên dùng tại Việt Nam và được phát huy lợi thế khai thác, đáp ứng mọi nhu cầu vận chuyển.</p>
+          Các sản phẩm được chúng chuyển chở như sau:</br>
+          + Sản phẩm nông nghiệp: lúa mỳ, gạo, phân bón, thức ăn gia súc, ngô hạt, tinh bột sắn,….</br>
+          + Sản phẩm sắt thép và trang thiết bị máy móc.</br>
+          + Nguyên liệu như: than, clanh-ke, gỗ dăm,….</br>
+          + Các loại mặt hàng siêu trường, siêu trọng.</p>
         </div>
       </div>
 
@@ -147,7 +152,8 @@
         <div class="icon-box">
           <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_02.png" class="img-fluid" alt=""></div>
           <h4><a href="">Logistic</a></h4>
-          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại</p>
+          <p>Dịch vụ vận chuyển hàng hóa đường biển quốc tế được khởi hành hàng tuần, vì vậy, khách hàng có nhu cầu vận chuyển hàng hóa trong nước đi quốc tế và ngược lại, sẽ có được những lợi ích thiết thực trong việc vận chuyển nhanh chóng của chúng tôi.</p>
+          <p>Bên cạnh đó, lịch tàu sẽ linh hoạt theo yêu cầu của khách hàng, điều này sẽ khiến cho khách hàng vô cùng tiện lợi khi cần giao nhận và xuất hàng theo yêu cầu của đối tác.</p>
         </div>
       </div>
 
@@ -155,7 +161,7 @@
         <div class="icon-box">
           <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_03.png" class="img-fluid" alt=""></div>
           <h4><a href="">Cho thuê tàu</a></h4>
-          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
+          <p>Đội tàu công ty sở hữu vận chuyển hàng hóa theo hình thức tàu chuyến và ngoài ra có cho thuê tàu định hạn. Với trình độ quản lý khai thác chuyên nghiệp, các con tàu của chúng tôi luôn đảm bảo các yêu cầu an toàn hàng hải, an ninh hàng hải và phòng ngừa ô nhiễm môi trường theo Công ước Quốc tế và mang lại hiệu quả kinh tế cho chủ tàu.</p>
         </div>
       </div>
 
@@ -163,7 +169,7 @@
         <div class="icon-box">
           <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_04.png" class="img-fluid" alt=""></div>
           <h4><a href="">Mua bán tàu</a></h4>
-          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
+          <p>Với đội ngũ chuyên viên vững vàng kiến thức, giàu kinh nghiệm trong thực tế công tác quản lý, khai thác tàu được đào tạo bài, với sự am hiểu sâu sắc về thị trường vận tải biển, thị trường mua bán tàu và đặc biệt là dựa trên nhiều mối quan hệ sâu rộng với các chủ tàu, chủ hàng cũng như mạng lưới đối tác chất lượng ở khắp mọi nơi, Chúng tôi đang có những lợi thế lớn trong việc cung cấp dịch vụ môi giới thuê tàu, dịch vụ môi giới mua bán tàu biển chuyên nghiệp tới các khách hàng trong và ngoài nước.</p>
         </div>
       </div>
 
@@ -171,7 +177,7 @@
         <div class="icon-box">
           <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_05.png" class="img-fluid" alt=""></div>
           <h4><a href="">Quản lý & Cung ứng thuyền viên</a></h4>
-          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
+          <p>Chúng tôi với đội ngũ chuyên nghiệp có nhiều kinh nghệm trong công tác xuất khẩu thuyền viên, có kinh nghiệm đào tạo thực tế sẽ giúp thuyền viên được trang bị kiến thức cơ bản một cách nhanh chóng, đi cùng đó là sự nâng cao chất lượng đào tạo đủ để thuyền viên dễ dàng gia nhập các đội tàu quốc tế. Tiêu chí của chúng tôi là tạo ra môi trường làm việc lành mạnh gắn kết như một gia đình, mọi người đều có trách nhiệm với nhau, công ty vì thuyền viên, thuyền viên vì công ty tất cả cùng chung tay xây dựng để công ty và gia đình thuyền viên càng lớn mạnh.</p>
         </div>
       </div>
 
@@ -179,7 +185,15 @@
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
           <h4><a href="">Dịch vụ khác</a></h4>
-          <p>Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng...</p>
+          <p>ĐẠI LÝ TÀU BIỂN: </br>
+          - Dịch vụ đại lý tàu biển cho tất cả các loại tàu bao gồm cả tàu chở dầu(cả khi tàu ở trong và ngoài cảng)</br>
+          - Bố trí xếp dỡ,làm hàng container,kiểm đếm,giám sát...</br>
+          - Dàn xếp cứu hộ tàu gặp nạn</br>
+          - Giải quyết khiếu nại</br>
+          - Bố trí thay thuyền viên,dịch vụ y tế cũng như đưa thuyền viên hồi hương</br>
+          - Cung ứng nhiên liệu cũng như thực phẩm...</br>
+          - Sắp xếp giải quyết các vấn đề khác liên quan đến tàu...</br>
+          </p>
         </div>
       </div>
 
@@ -376,8 +390,9 @@
       <p> Trở thành một trong những công ty vận tải biển hàng đầu khu vực Đông Nam Á đặc biệt trong lĩnh vực vận chuyển hàng khô rời, là đối tác tin cậy của khách hàng trên khắp thế giới qua việc cung cấp chất lượng dịch vụ ngày càng tốt hơn với giá cạnh tranh, liên tục đổi mới và tạo ra sự khác biệt trong các sản phẩm dịch vụ.</p>
       <h3 class="mt-5">Sứ mệnh, tôn chỉ hoạt động</h3>
       <p>An Hải là doanh nghiệp chuyên vận chuyển hàng hoá khắp thế giới bằng đường biển. Với mong muốn đóng góp nhiều hơn vào chuỗi logistics toàn cầu, Chúng tôi còn tham gia hoạt động ở các lĩnh vực về dịch vụ hàng hải khác với chất lượng tốt và giá cả cạnh tranh.
-
-Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty. Vì thế chúng tôi luôn nỗ lực tái cấu trúc và hiện đại hóa, trẻ hoá đội tàu, xây dựng một hệ thống chất lượng cung cấp dịch vụ vận tải đạt hiệu quả cao và bảo vệ môi trường, hạn chế tối đa các rủi ro, đảm bảo quyền lợi cho các khách hàng. Chúng tôi luôn tìm mọi cách để nâng cao chất lượng dịch vụ, đa dạng hoá các loại hình kinh doanh, củng cố và phát triển thị trường …</p>
+      Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty. Vì thế chúng tôi luôn nỗ lực tái cấu trúc và hiện đại hóa, trẻ hoá đội tàu, xây dựng một hệ 
+      thống chất lượng cung cấp dịch vụ vận tải đạt hiệu quả cao và bảo vệ môi trường, hạn chế tối đa các rủi ro, đảm bảo quyền lợi cho các khách hàng. Chúng tôi luôn tìm mọi cách để nâng cao chất lượng dịch vụ, đa dạng hoá các loại hình kinh doanh, củng cố và phát 
+      triển thị trường …</p>
       
     </div>
 
@@ -400,7 +415,10 @@ Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không 
       <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
         <div class="content d-flex flex-column justify-content-center">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+          CÁC ĐỐI TÁC CÔNG TY, CÁC ĐỐI TÁC CHỦ HÀNG NƯỚC NGOÀI: </br>
+          - KHÔNG NGỪNG PHÁT TRIỂN VÀ NÂNG CAO TRÌNH ĐỘ CHUYÊN MÔN NGÀY CÀNG CHUYÊN NGHIỆP, SẴN SÀNG ĐÁP ỨNG MỌI TIÊU CHUẨN KHẮT KHE NHẤT ĐẾN TỪ CÁC ĐỐI TÁC CHỦ HÀNG TRONG KHU VỰC CŨNG NHƯ QUỐC TẾ.
+          HỢP TÁC VỚI CÁC ĐƠN VỊ NƯỚC NGOÀI </br>
+          - Để khẳng định được vị thế và uy tín quốc tế như ngày nay, An Hải đã và đang phấn đấu dần đóng vai trò kết nối tại các diễn đàn, tổ chức đa phương có tầm quan trọng chiến lược đối với ngành nói riêng và đất nước nói chung. Hợp tác trên tin thần cùng nhau đổi mới, cùng nhau phát triển, An Hải Shipping luôn sẵn sàng kề vai sát cánh cùng nhau dẫn đầu cùng nhau phát triển.
           </p>
           <div class="row">
             <div class="col-md-6 d-md-flex align-items-md-stretch">
