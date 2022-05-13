@@ -13,10 +13,24 @@
 							}
 							?>
 							<a href="/" class="logo me-auto me-lg-0"><img src="<?php echo $logo ?>" alt="" class="img-fluid"></a>
-              <p>Địa chỉ:
-              Số 110, Lô 17 Mở Rộng, Đường Trung Hành 5, Phường Đằng Lâm, Quận Hải An, Thành phố Hải Phòng. 
+              <p><?php
+                if (pll_current_language() == 'en') {
+                  echo 'Address:
+                  No. 110, Lot 17 Extension, Trung Hanh 5 Street, Dang Lam Ward, Hai An District, Hai Phong City.';
+                } else {
+                  echo 'Địa chỉ:
+                  Số 110, Lô 17 Mở Rộng, Đường Trung Hành 5, Phường Đằng Lâm, Quận Hải An, Thành phố Hải Phòng.';
+                }
+                ?> 
               <br>
-                <strong>Điện thoại:</strong>:</strong> 0225 8830218<br>
+                <strong><?php
+                if (pll_current_language() == 'en') {
+                  echo 'Phone number';
+                } else {
+                  echo 'Điện thoại:';
+                }
+                ?>
+                 </strong>:</strong> 0225 8830218<br>
                 <strong>Email:</strong> chartering@anhaishipping.com.vn<br> ops@anhaishipping.com.vn  <br>
                 <strong>Fax:</strong> +84 225 8830218<br>
               </p>
@@ -42,11 +56,36 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Vận tải quốc tế và nội địa</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">
+              <?php
+                if (pll_current_language() == 'en') {
+                  echo 'International and domestic transportation';
+                } else {
+                  echo 'Vận tải quốc tế và nội địa';
+                }
+                ?></a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Logistic</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Cho thuê tàu</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Mua bán tàu</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Quản lý và cung ứng thuyền viên</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"><?php
+                if (pll_current_language() == 'en') {
+                  echo 'Boat rental';
+                } else {
+                  echo 'Cho thuê tàu';
+                }
+                ?></a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Buy and sell ships';
+                } else {
+                  echo 'Mua bán tàu';
+                }
+                ?></a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Crew management and supply';
+                } else {
+                  echo 'Quản lý và cung ứng thuyền viên';
+                }
+                ?></a></li>
             </ul>
           </div>
 
