@@ -158,22 +158,17 @@
     </div>
   </div>
 </section><!-- End Testimonials Section -->
+
 <!-- Show Img Section -->
-     <section id ="Show-img">
-        <div class="container" data-aos="zoom-in">
-          <div class="text-center">
-              <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_10.jpg" class="img-fluid" alt="">
-          </div>
-        </div>
-      </section>
+<img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/fleets/fleet.jpg' ) ) ?>" class="w-100" alt="">
 <!-- End Testimonials Section -->
+
 <!-- ======= Features Section ======= -->
 <section id="features" class="features">
   <div class="container" data-aos="fade-up">
 
     <div class="row">
-      <div class="image col-lg-6" 
-      style='background-image: url("wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_05.jpg");' data-aos="fade-right"></div>
+      <div class="image img-process col-lg-6" data-aos="fade-right"></div>
       <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-receipt"></i>
@@ -271,7 +266,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
         <div class="icon-box">
-          <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_01.png" class="img-fluid" alt=""></div>
+          <div class="icon"><img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/icon_action/icon_01.png' ) ) ?>" class="img-fluid" alt=""></div>
           <h4><a href=""><?php
                 if (pll_current_language() == 'en') {
                   echo 'International and Domestic Transportation';
@@ -326,7 +321,7 @@
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
-          <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_02.png" class="img-fluid" alt=""></div>
+          <div class="icon"><img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/icon_action/icon_02.png' ) ) ?>" class="img-fluid" alt=""></div>
           <h4><a href="">Logistic</a></h4>
           <p> <?php
                 if (pll_current_language() == 'en') {
@@ -347,7 +342,7 @@
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
         <div class="icon-box">
-          <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_03.png" class="img-fluid" alt=""></div>
+          <div class="icon"><img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/icon_action/icon_03.png' ) ) ?>" class="img-fluid" alt=""></div>
           <h4><a href=""> <?php
                 if (pll_current_language() == 'en') {
                   echo 'Boat rental';
@@ -367,7 +362,7 @@
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
         <div class="icon-box">
-          <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_04.png" class="img-fluid" alt=""></div>
+          <div class="icon"><img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/icon_action/icon_04.png' ) ) ?>" class="img-fluid" alt=""></div>
           <h4><a href=""> <?php
                 if (pll_current_language() == 'en') {
                   echo 'Buy and sell ships';
@@ -387,7 +382,7 @@
 
       <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
-          <div class="icon"><img src="wp-content/themes/AnHaiShip/assets/images/icon_action/icon_05.png" class="img-fluid" alt=""></div>
+          <div class="icon"><img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/icon_action/icon_05.png' ) ) ?>" class="img-fluid" alt=""></div>
           <h4><a href=""><?php
                 if (pll_current_language() == 'en') {
                   echo 'Crew Management & Supply';
@@ -530,12 +525,12 @@
     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
       <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_02.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_02.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Ảnh 1</h4>
             <p>Ảnh</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_02.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_02.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -543,12 +538,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_01.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_01.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Chúng tôi 3</h4>
             <p>Chúng tôi</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_01.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_01.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -556,12 +551,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_03.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_03.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Ảnh 2</h4>
             <p>Ảnh</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_03.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_03.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -569,12 +564,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_04.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_04.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Video 2</h4>
             <p>Video</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_04.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_04.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -582,12 +577,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_07.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_07.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Video 3</h4>
             <p>Video</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_07.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_07.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -595,12 +590,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-ship">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_08.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_08.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Video 4</h4>
             <p>Video</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_08.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_08.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -608,12 +603,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_01.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_01.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Chúng tôi 2</h4>
             <p>Chúng tôi</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_01.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_01.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -621,12 +616,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_02.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_02.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Ảnh 3</h4>
             <p>Ảnh</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_02.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_02.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -634,12 +629,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_03.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_03.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Video 1</h4>
             <p>Video</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_03.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_03.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -647,12 +642,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_04.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_04.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Video 3</h4>
             <p>Video</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_04.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_04.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -660,12 +655,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-stock">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_05.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_05.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Chúng tôi 3</h4>
             <p>Chúng tôi</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/working/work_05.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/working/work_05.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -673,12 +668,12 @@
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-us">
         <div class="portfolio-wrap">
-          <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/us/us_01.jpg" class="img-fluid" alt="">
+          <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/us/us_01.jpg' ) ) ?>" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Chúng tôi 3</h4>
             <p>Chúng tôi</p>
             <div class="portfolio-links">
-              <a href="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/us/us_01.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/us/us_01.jpg' ) ) ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="/" title="More Details"></a>
             </div>
           </div>
@@ -750,7 +745,7 @@
     </div>
     <div class="row no-gutters">
       <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right" data-aos-delay="100">
-      <img src="wp-content/themes/AnHaiShip/assets/images/AnHai_new_img/ship/ship_03.jpg" class="img-fluid" alt="">
+      <img src="<?php echo esc_url( get_theme_file_uri( '/assets/images/AnHai_new_img/ship/ship_03.jpg' ) ) ?>" class="img-fluid" alt="">
       </div>
       
       <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">

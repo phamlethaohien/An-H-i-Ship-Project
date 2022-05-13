@@ -61,7 +61,15 @@
       <nav class="navbar order-last order-lg-0">
         <ul>
           <li class="get-started-btn dropdown">
-            <a href="#"><span>Ngôn ngữ</span> <i class="bi bi-chevron-down"></i></a>
+            <a href="#"><span>
+              <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Language';
+                } else {
+                  echo 'Ngôn ngữ';
+                }
+              ?>
+            </span> <i class="bi bi-chevron-down"></i></a>
             <ul class="dropdown-menu">
               <?php pll_the_languages($args); ?>
             </ul>
@@ -88,7 +96,15 @@
           <div class="col-xl-2 col-md-4">
             <div class="icon-box">
               <i class="ri-store-line"></i>
-              <h3><a href="#services">Vận tải quốc tế và nội địa</a></h3>
+              <h3><a href="#services">
+                <?php
+                if (pll_current_language() == 'en') {
+                  echo 'International and domestic transportation';
+                } else {
+                  echo 'Vận tải quốc tế và nội địa';
+                }
+                ?>
+              </a></h3>
             </div>
           </div>
           <div class="col-xl-2 col-md-4">
@@ -100,24 +116,56 @@
           <div class="col-xl-2 col-md-4">
             <div class="icon-box">
               <i class="ri-calendar-todo-line"></i>
-              <h3><a href="#services">Cho thuê tàu</a></h3>
+              <h3><a href="#services">
+                <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Boat rental';
+                } else {
+                  echo 'Cho thuê tàu';
+                }
+                ?>
+              </a></h3>
             </div>
           </div>
           <div class="col-xl-2 col-md-4">
             <div class="icon-box">
               <i class="ri-paint-brush-line"></i>
-              <h3><a href="#services">Mua bán tàu</a></h3>
+              <h3><a href="#services">
+                <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Buy and sell ships';
+                } else {
+                  echo 'Mua bán tàu';
+                }
+                ?>
+              </a></h3>
             </div>
           </div>
           <div class="col-xl-2 col-md-4">
             <div class="icon-box">
               <i class="ri-database-2-line"></i>
-              <h3><a href="#services">Quản lý và cung ứng thuyền viên</a></h3>
+              <h3><a href="#services">
+                <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Crew management and supply';
+                } else {
+                  echo 'Quản lý và cung ứng thuyền viên';
+                }
+                ?>
+              </a></h3>
             </div>
           </div>
         </div>
         <div class="text-center mt-5 d-sm-block d-md-none">
-          <a href="#services" class="btn btn-main">Dịch vụ của chúng tôi</a>
+          <a href="#services" class="btn btn-main">
+            <?php
+            if (pll_current_language() == 'en') {
+              echo 'Crew management and supply';
+            } else {
+              echo 'Dịch vụ của chúng tôi';
+            }
+            ?>
+          </a>
         </div>
       <?php endif; ?>
 		</div>

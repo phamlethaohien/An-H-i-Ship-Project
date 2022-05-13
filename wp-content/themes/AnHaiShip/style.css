@@ -1951,3 +1951,7 @@ nav.pagination {
   color: #838383;
   font-weight: 600;
 }
+
+.img-process {
+  background: url("assets/images/AnHai_new_img/ship/ship_05.jpg")
+}
