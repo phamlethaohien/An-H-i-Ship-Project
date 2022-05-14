@@ -12,31 +12,31 @@
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
         <h3>
-        <?php
-                if (pll_current_language() == 'en') {
-                  echo 'An Hai Transport Trading and Service Co., Ltd';
-                } else {
-                  echo 'Công ty TNHH Dịch vụ và Thương mại vận tải An Hải';
-                }
-                ?></h3>
+          <?php
+            if (pll_current_language() == 'en') {
+              echo 'An Hai Transport Trading and Service Co., Ltd';
+            } else {
+              echo 'Công ty TNHH Dịch vụ và Thương mại vận tải An Hải';
+            }
+          ?></h3>
         <p class="ri-check-double-line">
-        <?php
-                if (pll_current_language() == 'en') {
-                  echo 'Established on 12/8/2009. Enterprise code 0200964322. With more than 10 years of establishment up to now, we are constantly making efforts to expand, develop, invest, manage and own the current fleet with large tonnage to ensure the operation of the routes. domestic and international from 5,000DWT to 53,000DWT.';
-                } else {
-                  echo 'Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lý và sở hữu đội tàu hiện tại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000DWT.';
-                }
-                ?>
+          <?php
+            if (pll_current_language() == 'en') {
+                echo 'Established on 12/8/2009. Enterprise code 0200964322. With more than 10 years of establishment up to now, we are constantly making efforts to expand, develop, invest, manage and own the current fleet with large tonnage to ensure the operation of the routes. domestic and international from 5,000DWT to 53,000DWT.';
+            } else {
+                echo 'Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lý và sở hữu đội tàu hiện tại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000DWT.';
+            }
+          ?>
         </p>
     
         <p class="ri-check-double-line">
-        <?php
-                if (pll_current_language() == 'en') {
-                  echo 'We always believe that our top responsibility is not only to meet the needs but also to bring absolute satisfaction to customers when using our services.';
-                } else {
-                  echo 'Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty.';
-                }
-                ?>
+          <?php
+            if (pll_current_language() == 'en') {
+              echo 'We always believe that our top responsibility is not only to meet the needs but also to bring absolute satisfaction to customers when using our services.';
+            } else {
+              echo 'Chúng tôi luôn tin rằng trách nhiệm hàng đầu của mình là không chỉ đáp ứng nhu cầu mà còn đem đến sự hài lòng tuyệt đối cho khách hàng khi sử dụng dịch vụ của Công ty.';
+            }
+          ?>
         </p>
             <!-- <ul>
           <li><i class="ri-check-double-line fst-italic"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
@@ -57,7 +57,7 @@
         <div class="swiper-slide slide-1">
           <div class="testimonial-item">
             <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_1.jpg" class="testimonial-img" alt=""> -->
-            <h3>  <?php
+            <h3><?php
                 if (pll_current_language() == 'en') {
                   echo 'High Quality Ship System';
                 } else {
@@ -74,7 +74,7 @@
                   echo 'Dịch vụ kinh doanh vận tải hàng hóa ven biển và viễn dương đáp ứng
                   nhu cầu của khách hàng trong suốt thời gian dài.';
                 }
-                ?>
+              ?>
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -82,13 +82,14 @@
         <div class="swiper-slide slide-2">
           <div class="testimonial-item">
             <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_2.jpg" class="testimonial-img" alt=""> -->
-            <h3>         <?php
+            <h3>         
+               <?php
                 if (pll_current_language() == 'en') {
                   echo 'Cargo services, ship operation management';
                 } else {
                   echo 'Dịch vụ vận chuyển hàng hóa, quản lý khai thác tàu';
                 }
-                ?></h3>
+               ?></h3>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               <?php
@@ -99,7 +100,7 @@
                   echo 'Dịch vụ kinh doanh hàng hóa, quản lý khai thác tàu đáp ứng
                   nhu cầu của khách hàng trong suốt thời gian dài.';
                 }
-                ?>
+              ?>
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -130,7 +131,7 @@
         <div class="swiper-slide slide-4">
           <div class="testimonial-item">
             <!-- <img src="wp-content/themes/AnHaiShip/assets/images/slides/slide_4.jpg" class="testimonial-img" alt=""> -->
-            <h3>         <?php
+            <h3><?php
                 if (pll_current_language() == 'en') {
                   echo 'Cargo services, ship operation management.';
                 } else {
@@ -172,20 +173,20 @@
       <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
         <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-receipt"></i>
-          <h4>         <?php
+          <h4><?php
                 if (pll_current_language() == 'en') {
                   echo 'Formation process';
                 } else {
                   echo 'Quá trình hình thành';
                 }
-                ?></h4>
-          <p>         <?php
+              ?></h4>
+          <p><?php
                 if (pll_current_language() == 'en') {
                   echo 'Established on 12/8/2009. Business code: 0200964322. With more than 10 years of establishment up to now, we are constantly making efforts to expand, develop investment, manage and own a modern fleet, large tonnage to ensure the operation of the ships. domestic and international routes from 5,000DWT to 53,000DWT…';
                 } else {
                   echo 'Được thành lập từ ngày 12/8/2009. Mã số doanh nghiệp: 0200964322. Với hơn 10 năm thành lập đến nay, chúng tôi không ngừng nỗ lực mở rộng, phát triển đầu tư, quản lí và sở hữu đội tàu hiện đại, trọng tải lớn nhằm đảm bảo tàu hoạt động các tuyến trong nước và quốc tế từ 5.000DWT cho đến 53.000 DWT…';
                 }
-                ?></p>
+            ?></p>
         </div>
         <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
           <i class="bx bx-calendar"></i>
@@ -488,7 +489,7 @@
                 ?></h2>
       <p><?php
                 if (pll_current_language() == 'en') {
-                  echo 'Image & video';
+                  echo 'Images & videos';
                 } else {
                   echo 'Hình ảnh & Video';
                 }
@@ -751,47 +752,51 @@
       <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
         <div class="content d-flex flex-column justify-content-center">
           <p>
-          <?php
-                if (pll_current_language() == 'en') {
-                  echo 'COMPANY PARTNERSHIP, FOREIGN OWNER PARTNER:';
-                } else {
-                  echo 'CÁC ĐỐI TÁC CÔNG TY, CÁC ĐỐI TÁC CHỦ HÀNG NƯỚC NGOÀI:';
-                }
-                ?> </br>
-          <?php
-                if (pll_current_language() == 'en') {
-                  echo '- CONTINUOUSLY DEVELOPMENT AND ENHANCE PROFESSIONAL QUALIFICATIONS becoming more and more PROFESSIONAL, READY TO MEET EVERY STRONGEST STANDARD FROM THE CUSTOMER PARTNER IN THE VERSION.';
-                } else {
-                  echo '- KHÔNG NGỪNG PHÁT TRIỂN VÀ NÂNG CAO TRÌNH ĐỘ CHUYÊN MÔN NGÀY CÀNG CHUYÊN NGHIỆP, SẴN SÀNG ĐÁP ỨNG MỌI TIÊU CHUẨN KHẮT KHE NHẤT ĐẾN TỪ CÁC ĐỐI TÁC CHỦ HÀNG TRONG KHU VỰC CŨNG NHƯ QUỐC TẾ.';
-                }
-                ?>
-          <?php
-                if (pll_current_language() == 'en') {
-                  echo 'COOPERATION WITH FOREIGN UNITS';
-                } else {
-                  echo 'HỢP TÁC VỚI CÁC ĐƠN VỊ NƯỚC NGOÀI';
-                }
-                ?></br>
-          <?php
-                if (pll_current_language() == 'en') {
-                  echo '- To affirm its international position and prestige as it is today, An Hai has been striving to gradually play a connecting role at multilateral forums and organizations of strategic importance to the industry in particular and country in general. Cooperation in the spirit of innovation together, development together, An Hai Shipping is always ready to stand shoulder to shoulder to lead together development.';
-                } else {
-                  echo '- Để khẳng định được vị thế và uy tín quốc tế như ngày nay, An Hải đã và đang phấn đấu dần đóng vai trò kết nối tại các diễn đàn, tổ chức đa phương có tầm quan trọng chiến lược đối với ngành nói riêng và đất nước nói chung. Hợp tác trên tin thần cùng nhau đổi mới, cùng nhau phát triển, An Hải Shipping luôn sẵn sàng kề vai sát cánh cùng nhau dẫn đầu cùng nhau phát triển.';
-                }
-                ?>
+            <?php
+              if (pll_current_language() == 'en') {
+                echo 'COMPANY PARTNERSHIP, FOREIGN OWNER PARTNER:';
+              } else {
+                echo 'CÁC ĐỐI TÁC CÔNG TY, CÁC ĐỐI TÁC CHỦ HÀNG NƯỚC NGOÀI:';
+              }
+            ?> </br>
+            <?php
+              if (pll_current_language() == 'en') {
+                echo '- CONTINUOUSLY DEVELOPMENT AND ENHANCE PROFESSIONAL QUALIFICATIONS becoming more and more PROFESSIONAL, READY TO MEET EVERY STRONGEST STANDARD FROM THE CUSTOMER PARTNER IN THE VERSION.';
+              } else {
+                echo '- KHÔNG NGỪNG PHÁT TRIỂN VÀ NÂNG CAO TRÌNH ĐỘ CHUYÊN MÔN NGÀY CÀNG CHUYÊN NGHIỆP, SẴN SÀNG ĐÁP ỨNG MỌI TIÊU CHUẨN KHẮT KHE NHẤT ĐẾN TỪ CÁC ĐỐI TÁC CHỦ HÀNG TRONG KHU VỰC CŨNG NHƯ QUỐC TẾ.';
+              }
+            ?>
+            <?php
+              if (pll_current_language() == 'en') {
+                echo 'COOPERATION WITH FOREIGN UNITS';
+              } else {
+                echo 'HỢP TÁC VỚI CÁC ĐƠN VỊ NƯỚC NGOÀI';
+              }
+              ?></br>
+            <?php
+              if (pll_current_language() == 'en') {
+                echo '- To affirm its international position and prestige as it is today, An Hai has been striving to gradually play a connecting role at multilateral forums and organizations of strategic importance to the industry in particular and country in general. Cooperation in the spirit of innovation together, development together, An Hai Shipping is always ready to stand shoulder to shoulder to lead together development.';
+              } else {
+                echo '- Để khẳng định được vị thế và uy tín quốc tế như ngày nay, An Hải đã và đang phấn đấu dần đóng vai trò kết nối tại các diễn đàn, tổ chức đa phương có tầm quan trọng chiến lược đối với ngành nói riêng và đất nước nói chung. Hợp tác trên tin thần cùng nhau đổi mới, cùng nhau phát triển, An Hải Shipping luôn sẵn sàng kề vai sát cánh cùng nhau dẫn đầu cùng nhau phát triển.';
+              }
+            ?>
           </p>
           <div class="row">
             <div class="col-md-6 d-md-flex align-items-md-stretch">
               <div class="count-box">
               <i class="bi bi-heart"></i>
                 <span data-purecounter-start="0" data-purecounter-end="756" data-purecounter-duration="2" class="purecounter"></span>
-                <p><strong> <?php
-                if (pll_current_language() == 'en') {
-                  echo 'Customer Satisfaction';
-                } else {
-                  echo 'Khách hàng hài lòng';
-                }
-                ?></strong></p>
+                <p>
+                <strong>
+                  <?php
+                    if (pll_current_language() == 'en') {
+                      echo 'Customer Satisfaction';
+                    } else {
+                      echo 'Khách hàng hài lòng';
+                    }
+                  ?>
+                </strong>
+                </p>
               </div>
             </div>
 
@@ -799,13 +804,17 @@
               <div class="count-box">
                 <i class="bi bi-award"></i>
                 <span data-purecounter-start="0" data-purecounter-end="1002" data-purecounter-duration="4" class="purecounter"></span>
-                <p><strong> <?php
-                if (pll_current_language() == 'en') {
-                  echo 'Number of visits in the month';
-                } else {
-                  echo 'Số lượt truy cập trong tháng';
-                }
-                ?></strong></p>
+                <p>
+                <strong>
+                  <?php
+                    if (pll_current_language() == 'en') {
+                     echo 'Number of visits in the month';
+                    } else {
+                     echo 'Số lượt truy cập trong tháng';
+                    }   
+                  ?>
+                </strong>
+                </p>
               </div>
             </div>
 
@@ -813,13 +822,17 @@
               <div class="count-box">
                 <i class="bi bi-building"></i>
                 <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="4" class="purecounter"></span>
-                <p><strong> <?php
-                if (pll_current_language() == 'en') {
-                  echo 'Branch';
-                } else {
-                  echo 'Chi nhánh';
-                }
-                ?></strong></p>
+                <p>
+                  <strong>
+                    <?php
+                      if (pll_current_language() == 'en') {
+                       echo 'Branch';
+                      } else {
+                       echo 'Chi nhánh';
+                      }
+                    ?>
+                </strong>
+                </p>
               </div>
             </div>
 
@@ -827,13 +840,17 @@
               <div class="count-box">
                 <i class="bi bi-people"></i>
                 <span data-purecounter-start="0" data-purecounter-end="200" data-purecounter-duration="4" class="purecounter"></span>
-                <p><strong> <?php
-                if (pll_current_language() == 'en') {
-                  echo 'Human resources team';
-                } else {
-                  echo 'Đội ngũ nhân lực';
-                }
-                ?></strong></p>
+                <p>
+                <strong>
+                  <?php
+                    if (pll_current_language() == 'en') {
+                      echo 'Human resources team';
+                    } else {
+                      echo 'Đội ngũ nhân lực';
+                    }
+                  ?>
+                </strong>
+                </p>
               </div>
             </div>
           </div>
@@ -876,7 +893,7 @@
         <div class="info">
           <div class="address">
             <i class="bi bi-geo-alt"></i>
-            <h4> <?php
+            <h4><?php
                 if (pll_current_language() == 'en') {
                   echo 'Address:';
                 } else {
@@ -922,24 +939,52 @@
         <form action="forms/contact.php" method="post" role="form" class="php-email-form">
           <div class="row">
             <div class="col-md-6 form-group">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Họ và tên" required>
+              <input type="text" name="name" class="form-control" id="name" placeholder="
+                <?php
+                  if (pll_current_language() == 'en') {
+                    echo 'Full name';
+                  } else {
+                    echo 'Họ và tên';
+                }
+                ?>"required>
             </div>
             <div class="col-md-6 form-group mt-3 mt-md-0">
               <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
             </div>
           </div>
           <div class="form-group mt-3">
-            <input type="text" class="form-control" name="subject" id="subject" placeholder="Chủ đề" required>
+            <input type="text" class="form-control" name="subject" id="subject" placeholder="
+              <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Topic';
+                } else {
+                  echo 'Chủ đề';
+                }
+              ?>"required>
           </div>
           <div class="form-group mt-3">
-            <textarea class="form-control" name="message" rows="5" placeholder="Nội dung" required></textarea>
+            <textarea class="form-control" name="message" rows="5" placeholder="
+              <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Content';
+                } else {
+                  echo 'Nội dung';
+                }
+              ?>" required></textarea>
           </div>
           <div class="my-3">
             <div class="loading">Loading</div>
             <div class="error-message"></div>
             <div class="sent-message">Your message has been sent. Thank you!</div>
           </div>
-          <div class="text-center"><button type="submit">Gửi phản hồi</button></div>
+          <div class="text-center"><button type="submit">
+              <?php
+                if (pll_current_language() == 'en') {
+                  echo 'Send feedback';
+                } else {
+                  echo 'Gửi phản hồi';
+                }
+              ?></button></div>
         </form>
  
       </div>
