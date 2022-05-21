@@ -144,7 +144,7 @@ h6 {
 }
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(0, 0, 0, 0.8);
+  background: #01579b;
 }
 #header .logo {
   font-size: 32px;
@@ -675,8 +675,8 @@ section {
   # Cta
   --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)),
-    url("assets/images/slides/slide-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.3), rgba(0, 0, 0, 0.3)),
+    url("assets/images/slides/slide-wave.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -951,7 +951,7 @@ section {
   --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("assets/images/slides/slide-bg.jpg") no-repeat;
+  background: url("assets/images/slides/slide-wave.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1329,7 +1329,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #151515;
+  background: #01579b;
   border-bottom: 1px solid #222222;
   padding: 60px 0 30px 0;
 }
